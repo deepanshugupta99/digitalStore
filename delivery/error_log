@@ -1,0 +1,367 @@
+[13-Jan-2019 18:16:46 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 107
+[13-Jan-2019 18:16:46 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 107
+[17-Jan-2019 11:12:13 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 107
+[17-Jan-2019 11:12:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 107
+[17-Jan-2019 13:22:46 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 107
+[17-Jan-2019 13:22:46 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 107
+[17-Jan-2019 13:40:34 UTC] PHP Notice:  Undefined variable: delivery_status in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 133
+[17-Jan-2019 13:40:34 UTC] PHP Notice:  Undefined variable: delivery_status in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 133
+[17-Jan-2019 13:40:34 UTC] PHP Notice:  Undefined variable: delivery_status in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 133
+[17-Jan-2019 13:40:34 UTC] PHP Notice:  Undefined variable: delivery_status in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 133
+[17-Jan-2019 13:40:34 UTC] PHP Notice:  Undefined variable: delivery_status in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 133
+[17-Jan-2019 13:40:34 UTC] PHP Notice:  Undefined variable: delivery_status in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 133
+[17-Jan-2019 13:40:34 UTC] PHP Notice:  Undefined variable: delivery_status in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 133
+[17-Jan-2019 13:40:34 UTC] PHP Notice:  Undefined variable: delivery_status in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 133
+[17-Jan-2019 13:40:34 UTC] PHP Notice:  Undefined variable: delivery_status in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 133
+[17-Jan-2019 13:51:49 UTC] PHP Notice:  Undefined variable: j in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 153
+[17-Jan-2019 13:51:49 UTC] PHP Notice:  Undefined index:  in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 153
+[17-Jan-2019 13:51:49 UTC] PHP Notice:  Undefined variable: j in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 153
+[17-Jan-2019 13:51:49 UTC] PHP Notice:  Undefined index:  in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 153
+[17-Jan-2019 13:51:49 UTC] PHP Notice:  Undefined variable: j in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 153
+[17-Jan-2019 13:51:49 UTC] PHP Notice:  Undefined index:  in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 153
+[17-Jan-2019 13:51:49 UTC] PHP Notice:  Undefined variable: j in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 153
+[17-Jan-2019 13:51:49 UTC] PHP Notice:  Undefined index:  in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 153
+[17-Jan-2019 13:51:49 UTC] PHP Notice:  Undefined variable: j in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 153
+[17-Jan-2019 13:51:49 UTC] PHP Notice:  Undefined index:  in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 153
+[17-Jan-2019 13:51:49 UTC] PHP Notice:  Undefined variable: j in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 153
+[17-Jan-2019 13:51:49 UTC] PHP Notice:  Undefined index:  in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 153
+[17-Jan-2019 13:51:49 UTC] PHP Notice:  Undefined variable: j in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 153
+[17-Jan-2019 13:51:49 UTC] PHP Notice:  Undefined index:  in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 153
+[17-Jan-2019 13:51:49 UTC] PHP Notice:  Undefined variable: j in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 153
+[17-Jan-2019 13:51:49 UTC] PHP Notice:  Undefined index:  in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 153
+[17-Jan-2019 13:51:49 UTC] PHP Notice:  Undefined variable: j in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 153
+[17-Jan-2019 13:51:49 UTC] PHP Notice:  Undefined index:  in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 153
+[17-Jan-2019 13:51:52 UTC] PHP Notice:  Undefined variable: j in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 153
+[17-Jan-2019 13:51:52 UTC] PHP Notice:  Undefined index:  in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 153
+[17-Jan-2019 13:51:52 UTC] PHP Notice:  Undefined variable: j in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 153
+[17-Jan-2019 13:51:52 UTC] PHP Notice:  Undefined index:  in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 153
+[17-Jan-2019 13:51:52 UTC] PHP Notice:  Undefined variable: j in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 153
+[17-Jan-2019 13:51:52 UTC] PHP Notice:  Undefined index:  in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 153
+[17-Jan-2019 13:51:52 UTC] PHP Notice:  Undefined variable: j in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 153
+[17-Jan-2019 13:51:52 UTC] PHP Notice:  Undefined index:  in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 153
+[17-Jan-2019 13:51:52 UTC] PHP Notice:  Undefined variable: j in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 153
+[17-Jan-2019 13:51:52 UTC] PHP Notice:  Undefined index:  in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 153
+[17-Jan-2019 13:51:52 UTC] PHP Notice:  Undefined variable: j in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 153
+[17-Jan-2019 13:51:52 UTC] PHP Notice:  Undefined index:  in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 153
+[17-Jan-2019 13:51:52 UTC] PHP Notice:  Undefined variable: j in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 153
+[17-Jan-2019 13:51:52 UTC] PHP Notice:  Undefined index:  in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 153
+[17-Jan-2019 13:51:52 UTC] PHP Notice:  Undefined variable: j in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 153
+[17-Jan-2019 13:51:52 UTC] PHP Notice:  Undefined index:  in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 153
+[17-Jan-2019 13:51:52 UTC] PHP Notice:  Undefined variable: j in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 153
+[17-Jan-2019 13:51:52 UTC] PHP Notice:  Undefined index:  in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 153
+[17-Jan-2019 14:02:19 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[17-Jan-2019 14:02:19 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[17-Jan-2019 14:15:58 UTC] PHP Notice:  Undefined index: delivery_status in /home/umv5h8yz2e20/grocease.com/pages/delivery_details_functionality.php on line 8
+[17-Jan-2019 14:16:36 UTC] PHP Notice:  Undefined index: delivery_status in /home/umv5h8yz2e20/grocease.com/pages/delivery_details_functionality.php on line 8
+[17-Jan-2019 14:16:51 UTC] PHP Notice:  Undefined index: delivery_status in /home/umv5h8yz2e20/grocease.com/pages/delivery_details_functionality.php on line 8
+[17-Jan-2019 14:16:59 UTC] PHP Notice:  Undefined index: delivery_status in /home/umv5h8yz2e20/grocease.com/pages/delivery_details_functionality.php on line 8
+[17-Jan-2019 14:19:39 UTC] PHP Notice:  Undefined index: delivery_status in /home/umv5h8yz2e20/grocease.com/pages/delivery_details_functionality.php on line 8
+[17-Jan-2019 14:20:34 UTC] PHP Notice:  Undefined index: delivery_status in /home/umv5h8yz2e20/grocease.com/pages/delivery_details_functionality.php on line 8
+[17-Jan-2019 14:20:43 UTC] PHP Notice:  Undefined index: delivery_status in /home/umv5h8yz2e20/grocease.com/pages/delivery_details_functionality.php on line 8
+[17-Jan-2019 14:22:07 UTC] PHP Notice:  Undefined index: delivery_status in /home/umv5h8yz2e20/grocease.com/pages/delivery_details_functionality.php on line 8
+[17-Jan-2019 14:22:12 UTC] PHP Notice:  Undefined index: delivery_status in /home/umv5h8yz2e20/grocease.com/pages/delivery_details_functionality.php on line 8
+[17-Jan-2019 14:22:39 UTC] PHP Notice:  Undefined index: delivery_status in /home/umv5h8yz2e20/grocease.com/pages/delivery_details_functionality.php on line 8
+[17-Jan-2019 14:22:45 UTC] PHP Notice:  Undefined index: delivery_status in /home/umv5h8yz2e20/grocease.com/pages/delivery_details_functionality.php on line 8
+[17-Jan-2019 14:23:42 UTC] PHP Notice:  Undefined index: delivery_status in /home/umv5h8yz2e20/grocease.com/pages/delivery_details_functionality.php on line 8
+[17-Jan-2019 14:24:43 UTC] PHP Notice:  Undefined index: delivery_status in /home/umv5h8yz2e20/grocease.com/pages/delivery_details_functionality.php on line 8
+[17-Jan-2019 14:25:21 UTC] PHP Notice:  Undefined index: delivery_status in /home/umv5h8yz2e20/grocease.com/pages/delivery_details_functionality.php on line 8
+[17-Jan-2019 14:25:36 UTC] PHP Notice:  Undefined index: delivery_status in /home/umv5h8yz2e20/grocease.com/pages/delivery_details_functionality.php on line 8
+[17-Jan-2019 14:26:14 UTC] PHP Notice:  Undefined index: delivery_status in /home/umv5h8yz2e20/grocease.com/pages/delivery_details_functionality.php on line 8
+[17-Jan-2019 14:28:12 UTC] PHP Notice:  Undefined index: delivery_status in /home/umv5h8yz2e20/grocease.com/pages/delivery_details_functionality.php on line 8
+[17-Jan-2019 14:32:09 UTC] PHP Notice:  Undefined index: delivery_status in /home/umv5h8yz2e20/grocease.com/pages/delivery_details_functionality.php on line 8
+[17-Jan-2019 14:48:42 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[17-Jan-2019 14:48:42 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[17-Jan-2019 14:51:10 UTC] PHP Notice:  Undefined index: delivery_status in /home/umv5h8yz2e20/grocease.com/pages/delivery_details_functionality.php on line 8
+[17-Jan-2019 14:51:10 UTC] PHP Notice:  Undefined index: delivery_status in /home/umv5h8yz2e20/grocease.com/pages/delivery_details_functionality.php on line 8
+[17-Jan-2019 14:52:02 UTC] PHP Notice:  Undefined index: delivery_status in /home/umv5h8yz2e20/grocease.com/pages/delivery_details_functionality.php on line 8
+[17-Jan-2019 14:52:05 UTC] PHP Notice:  Undefined index: delivery_status in /home/umv5h8yz2e20/grocease.com/pages/delivery_details_functionality.php on line 8
+[17-Jan-2019 14:52:08 UTC] PHP Notice:  Undefined index: delivery_status in /home/umv5h8yz2e20/grocease.com/pages/delivery_details_functionality.php on line 8
+[17-Jan-2019 14:54:03 UTC] PHP Notice:  Undefined index: delivery_status in /home/umv5h8yz2e20/grocease.com/pages/delivery_details_functionality.php on line 8
+[17-Jan-2019 14:54:09 UTC] PHP Notice:  Undefined index: delivery_status in /home/umv5h8yz2e20/grocease.com/pages/delivery_details_functionality.php on line 8
+[17-Jan-2019 14:54:10 UTC] PHP Notice:  Undefined index: delivery_status in /home/umv5h8yz2e20/grocease.com/pages/delivery_details_functionality.php on line 8
+[17-Jan-2019 14:54:35 UTC] PHP Notice:  Undefined index: delivery_status in /home/umv5h8yz2e20/grocease.com/pages/delivery_details_functionality.php on line 8
+[17-Jan-2019 14:57:53 UTC] PHP Notice:  Undefined index: delivery_status in /home/umv5h8yz2e20/grocease.com/pages/delivery_details_functionality.php on line 8
+[17-Jan-2019 14:57:55 UTC] PHP Notice:  Undefined index: delivery_status in /home/umv5h8yz2e20/grocease.com/pages/delivery_details_functionality.php on line 8
+[17-Jan-2019 14:58:54 UTC] PHP Notice:  Undefined index: delivery_status in /home/umv5h8yz2e20/grocease.com/pages/delivery_details_functionality.php on line 8
+[17-Jan-2019 14:59:00 UTC] PHP Notice:  Undefined index: delivery_status in /home/umv5h8yz2e20/grocease.com/pages/delivery_details_functionality.php on line 8
+[17-Jan-2019 15:05:57 UTC] PHP Notice:  Undefined index: delivery_status in /home/umv5h8yz2e20/grocease.com/pages/delivery_details_functionality.php on line 8
+[17-Jan-2019 15:09:39 UTC] PHP Notice:  Undefined index: delivery_status in /home/umv5h8yz2e20/grocease.com/pages/delivery_details_functionality.php on line 8
+[17-Jan-2019 15:10:14 UTC] PHP Notice:  Undefined index: delivery_status in /home/umv5h8yz2e20/grocease.com/pages/delivery_details_functionality.php on line 8
+[18-Jan-2019 11:48:07 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[18-Jan-2019 11:48:07 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[18-Jan-2019 11:48:35 UTC] PHP Notice:  Undefined index: delivery_status in /home/umv5h8yz2e20/grocease.com/pages/delivery_details_functionality.php on line 8
+[18-Jan-2019 11:49:05 UTC] PHP Notice:  Undefined index: delivery_status in /home/umv5h8yz2e20/grocease.com/pages/delivery_details_functionality.php on line 8
+[18-Jan-2019 11:49:32 UTC] PHP Notice:  Undefined index: delivery_status in /home/umv5h8yz2e20/grocease.com/pages/delivery_details_functionality.php on line 8
+[18-Jan-2019 11:51:18 UTC] PHP Notice:  Undefined index: delivery_status in /home/umv5h8yz2e20/grocease.com/pages/delivery_details_functionality.php on line 8
+[18-Jan-2019 11:53:13 UTC] PHP Notice:  Undefined index: delivery_status in /home/umv5h8yz2e20/grocease.com/pages/delivery_details_functionality.php on line 8
+[20-Jan-2019 08:37:27 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[20-Jan-2019 08:37:27 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[22-Jan-2019 04:07:32 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[22-Jan-2019 04:07:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[22-Jan-2019 04:08:45 UTC] PHP Notice:  Undefined index: delivery_status in /home/umv5h8yz2e20/grocease.com/pages/delivery_details_functionality.php on line 8
+[25-Jan-2019 15:27:04 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[25-Jan-2019 15:27:04 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[25-Jan-2019 15:29:26 UTC] PHP Notice:  Undefined index: delivery_status in /home/umv5h8yz2e20/grocease.com/pages/delivery_details_functionality.php on line 8
+[25-Jan-2019 15:30:30 UTC] PHP Notice:  Undefined index: delivery_status in /home/umv5h8yz2e20/grocease.com/pages/delivery_details_functionality.php on line 8
+[26-Jan-2019 14:41:48 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[26-Jan-2019 14:41:48 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[26-Jan-2019 14:42:20 UTC] PHP Notice:  Undefined index: delivery_status in /home/umv5h8yz2e20/grocease.com/pages/delivery_details_functionality.php on line 8
+[26-Jan-2019 14:42:20 UTC] PHP Warning:  Division by zero in /home/umv5h8yz2e20/grocease.com/pages/delivery_details_functionality.php on line 43
+[27-Jan-2019 08:29:18 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[27-Jan-2019 08:29:18 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[27-Jan-2019 08:29:31 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[27-Jan-2019 08:29:31 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[27-Jan-2019 13:12:26 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[27-Jan-2019 13:12:26 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[27-Jan-2019 13:13:41 UTC] PHP Notice:  Undefined index: delivery_status in /home/umv5h8yz2e20/grocease.com/pages/delivery_details_functionality.php on line 8
+[27-Jan-2019 13:14:10 UTC] PHP Notice:  Undefined index: delivery_status in /home/umv5h8yz2e20/grocease.com/pages/delivery_details_functionality.php on line 8
+[27-Jan-2019 13:14:44 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[27-Jan-2019 13:14:44 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[27-Jan-2019 15:54:46 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[27-Jan-2019 15:54:46 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[27-Jan-2019 15:56:09 UTC] PHP Notice:  Undefined index: delivery_status in /home/umv5h8yz2e20/grocease.com/pages/delivery_details_functionality.php on line 8
+[27-Jan-2019 15:56:22 UTC] PHP Notice:  Undefined index: delivery_status in /home/umv5h8yz2e20/grocease.com/pages/delivery_details_functionality.php on line 8
+[28-Jan-2019 11:02:00 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[28-Jan-2019 11:02:00 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[28-Jan-2019 11:02:44 UTC] PHP Notice:  Undefined index: delivery_status in /home/umv5h8yz2e20/grocease.com/pages/delivery_details_functionality.php on line 8
+[28-Jan-2019 11:05:11 UTC] PHP Notice:  Undefined index: delivery_status in /home/umv5h8yz2e20/grocease.com/pages/delivery_details_functionality.php on line 8
+[28-Jan-2019 13:10:04 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[28-Jan-2019 13:10:04 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[28-Jan-2019 13:24:40 UTC] PHP Notice:  Undefined index: delivery_status in /home/umv5h8yz2e20/grocease.com/pages/delivery_details_functionality.php on line 8
+[28-Jan-2019 13:39:33 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[28-Jan-2019 13:39:33 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[28-Jan-2019 13:43:28 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[28-Jan-2019 13:43:28 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[28-Jan-2019 13:44:01 UTC] PHP Notice:  Undefined index: delivery_status in /home/umv5h8yz2e20/grocease.com/pages/delivery_details_functionality.php on line 8
+[28-Jan-2019 16:28:12 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[28-Jan-2019 16:28:12 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[28-Jan-2019 21:03:10 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[28-Jan-2019 21:03:10 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[29-Jan-2019 06:55:50 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[29-Jan-2019 06:55:50 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[29-Jan-2019 06:56:37 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[29-Jan-2019 06:56:37 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[30-Jan-2019 04:13:01 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[30-Jan-2019 04:13:01 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[30-Jan-2019 08:19:52 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[30-Jan-2019 08:19:52 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[30-Jan-2019 15:18:33 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[30-Jan-2019 15:18:33 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[30-Jan-2019 15:18:56 UTC] PHP Notice:  Undefined index: delivery_status in /home/umv5h8yz2e20/grocease.com/pages/delivery_details_functionality.php on line 8
+[30-Jan-2019 15:29:35 UTC] PHP Notice:  Undefined index: delivery_status in /home/umv5h8yz2e20/grocease.com/pages/delivery_details_functionality.php on line 8
+[30-Jan-2019 15:29:44 UTC] PHP Notice:  Undefined index: delivery_status in /home/umv5h8yz2e20/grocease.com/pages/delivery_details_functionality.php on line 8
+[31-Jan-2019 05:44:49 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[31-Jan-2019 05:44:49 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[31-Jan-2019 05:45:48 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[31-Jan-2019 05:45:48 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[31-Jan-2019 09:05:40 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[31-Jan-2019 09:05:40 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[31-Jan-2019 09:05:56 UTC] PHP Notice:  Undefined index: delivery_status in /home/umv5h8yz2e20/grocease.com/pages/delivery_details_functionality.php on line 8
+[31-Jan-2019 09:34:01 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[31-Jan-2019 09:34:01 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[31-Jan-2019 13:52:27 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[31-Jan-2019 13:52:27 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[31-Jan-2019 14:17:18 UTC] PHP Notice:  Undefined index: delivery_status in /home/umv5h8yz2e20/grocease.com/pages/delivery_details_functionality.php on line 8
+[31-Jan-2019 15:12:41 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[31-Jan-2019 15:12:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[31-Jan-2019 15:12:44 UTC] PHP Notice:  Undefined variable: query in /home/umv5h8yz2e20/grocease.com/pages/header.php on line 6
+[31-Jan-2019 15:12:44 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/umv5h8yz2e20/grocease.com/pages/header.php on line 6
+[31-Jan-2019 15:12:44 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/pages/header.php on line 8
+[31-Jan-2019 15:12:51 UTC] PHP Notice:  Undefined index: delivery_status in /home/umv5h8yz2e20/grocease.com/pages/delivery_details_functionality.php on line 8
+[31-Jan-2019 15:13:18 UTC] PHP Notice:  Undefined index: delivery_status in /home/umv5h8yz2e20/grocease.com/pages/delivery_details_functionality.php on line 8
+[31-Jan-2019 15:28:37 UTC] PHP Notice:  Undefined index: delivery_status in /home/umv5h8yz2e20/grocease.com/pages/delivery_details_functionality.php on line 8
+[31-Jan-2019 15:29:04 UTC] PHP Notice:  Undefined index: delivery_status in /home/umv5h8yz2e20/grocease.com/pages/delivery_details_functionality.php on line 8
+[31-Jan-2019 22:14:28 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[31-Jan-2019 22:14:28 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[31-Jan-2019 22:15:16 UTC] PHP Notice:  Undefined index: delivery_status in /home/umv5h8yz2e20/grocease.com/pages/delivery_details_functionality.php on line 8
+[31-Jan-2019 22:15:53 UTC] PHP Notice:  Undefined index: delivery_status in /home/umv5h8yz2e20/grocease.com/pages/delivery_details_functionality.php on line 8
+[31-Jan-2019 22:16:45 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[31-Jan-2019 22:16:45 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[01-Feb-2019 04:48:55 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[01-Feb-2019 04:48:55 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[01-Feb-2019 04:50:03 UTC] PHP Notice:  Undefined index: delivery_status in /home/umv5h8yz2e20/grocease.com/pages/delivery_details_functionality.php on line 8
+[01-Feb-2019 04:51:05 UTC] PHP Notice:  Undefined index: delivery_status in /home/umv5h8yz2e20/grocease.com/pages/delivery_details_functionality.php on line 8
+[01-Feb-2019 04:51:41 UTC] PHP Notice:  Undefined index: delivery_status in /home/umv5h8yz2e20/grocease.com/pages/delivery_details_functionality.php on line 8
+[01-Feb-2019 04:52:57 UTC] PHP Notice:  Undefined index: delivery_status in /home/umv5h8yz2e20/grocease.com/pages/delivery_details_functionality.php on line 8
+[01-Feb-2019 11:20:40 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[01-Feb-2019 11:20:40 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[01-Feb-2019 11:21:17 UTC] PHP Notice:  Undefined index: delivery_status in /home/umv5h8yz2e20/grocease.com/pages/delivery_details_functionality.php on line 8
+[01-Feb-2019 12:12:34 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[01-Feb-2019 12:12:34 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[01-Feb-2019 12:12:51 UTC] PHP Notice:  Undefined index: delivery_status in /home/umv5h8yz2e20/grocease.com/pages/delivery_details_functionality.php on line 8
+[01-Feb-2019 12:14:52 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[01-Feb-2019 12:14:52 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[01-Feb-2019 12:41:49 UTC] PHP Notice:  Undefined index: delivery_status in /home/umv5h8yz2e20/grocease.com/pages/delivery_details_functionality.php on line 8
+[01-Feb-2019 12:42:05 UTC] PHP Notice:  Undefined index: delivery_status in /home/umv5h8yz2e20/grocease.com/pages/delivery_details_functionality.php on line 8
+[01-Feb-2019 12:45:04 UTC] PHP Notice:  Undefined index: delivery_status in /home/umv5h8yz2e20/grocease.com/pages/delivery_details_functionality.php on line 8
+[01-Feb-2019 12:45:53 UTC] PHP Notice:  Undefined index: delivery_status in /home/umv5h8yz2e20/grocease.com/pages/delivery_details_functionality.php on line 8
+[01-Feb-2019 12:56:38 UTC] PHP Notice:  Undefined index: delivery_status in /home/umv5h8yz2e20/grocease.com/pages/delivery_details_functionality.php on line 8
+[01-Feb-2019 13:58:35 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[01-Feb-2019 13:58:35 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[01-Feb-2019 13:59:30 UTC] PHP Notice:  Undefined index: delivery_status in /home/umv5h8yz2e20/grocease.com/pages/delivery_details_functionality.php on line 8
+[01-Feb-2019 13:59:55 UTC] PHP Notice:  Undefined index: delivery_status in /home/umv5h8yz2e20/grocease.com/pages/delivery_details_functionality.php on line 8
+[01-Feb-2019 16:33:58 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[01-Feb-2019 16:33:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[01-Feb-2019 18:07:39 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[01-Feb-2019 18:07:39 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[01-Feb-2019 18:07:43 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[01-Feb-2019 18:07:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[01-Feb-2019 23:39:34 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[01-Feb-2019 23:39:34 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[03-Feb-2019 15:52:28 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[03-Feb-2019 15:52:28 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[05-Feb-2019 06:04:43 UTC] PHP Notice:  Undefined variable: date in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 91
+[05-Feb-2019 06:04:43 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[05-Feb-2019 06:04:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[05-Feb-2019 10:05:36 UTC] PHP Notice:  Undefined variable: date in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 91
+[05-Feb-2019 10:05:36 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[05-Feb-2019 10:05:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[05-Feb-2019 10:07:04 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[05-Feb-2019 10:07:04 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[06-Feb-2019 08:33:11 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[06-Feb-2019 08:33:11 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[06-Feb-2019 13:58:59 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[06-Feb-2019 13:58:59 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[06-Feb-2019 14:00:36 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[06-Feb-2019 14:00:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[07-Feb-2019 05:34:24 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[07-Feb-2019 05:34:24 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[07-Feb-2019 13:42:15 UTC] PHP Notice:  Undefined variable: date in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 91
+[07-Feb-2019 13:42:15 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[07-Feb-2019 13:42:15 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[07-Feb-2019 13:42:29 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[07-Feb-2019 13:42:29 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[08-Feb-2019 13:36:03 UTC] PHP Notice:  Undefined variable: date in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 91
+[08-Feb-2019 13:36:03 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[08-Feb-2019 13:36:03 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[10-Feb-2019 08:40:16 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[10-Feb-2019 08:40:16 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[10-Feb-2019 14:34:36 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[10-Feb-2019 14:34:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[10-Feb-2019 14:34:50 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[10-Feb-2019 14:34:50 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[14-Feb-2019 13:36:52 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[14-Feb-2019 13:36:52 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[14-Feb-2019 18:27:30 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[14-Feb-2019 18:27:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[17-Feb-2019 10:18:40 UTC] PHP Notice:  Undefined variable: date in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 91
+[17-Feb-2019 10:18:40 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[17-Feb-2019 10:18:40 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[17-Feb-2019 10:19:38 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[17-Feb-2019 10:19:38 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[25-Feb-2019 04:12:53 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[25-Feb-2019 04:12:53 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[04-Apr-2019 09:32:16 UTC] PHP Notice:  Undefined variable: date in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 91
+[04-Apr-2019 09:32:16 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[04-Apr-2019 09:32:16 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[04-Apr-2019 09:37:40 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[04-Apr-2019 09:37:40 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[04-Apr-2019 18:42:16 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[04-Apr-2019 18:42:16 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[05-Apr-2019 15:08:36 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[05-Apr-2019 15:08:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[06-Apr-2019 06:10:49 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[06-Apr-2019 06:10:49 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[06-Apr-2019 10:39:23 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[06-Apr-2019 10:39:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[07-Apr-2019 04:46:02 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[07-Apr-2019 04:46:02 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[08-Apr-2019 03:49:50 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[08-Apr-2019 03:49:50 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[08-Apr-2019 03:51:39 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[08-Apr-2019 03:51:39 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[10-Apr-2019 09:46:08 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[10-Apr-2019 09:46:08 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[11-Apr-2019 15:55:43 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[11-Apr-2019 15:55:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[12-Apr-2019 03:02:45 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[12-Apr-2019 03:02:45 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[15-Apr-2019 07:08:56 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[15-Apr-2019 07:08:56 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[18-Apr-2019 07:42:01 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[18-Apr-2019 07:42:01 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[18-Apr-2019 07:42:36 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[18-Apr-2019 07:42:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[19-Apr-2019 03:41:12 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[19-Apr-2019 03:41:12 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[20-Apr-2019 14:10:03 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[20-Apr-2019 14:10:03 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[21-Apr-2019 03:52:18 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[21-Apr-2019 03:52:18 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[21-Apr-2019 14:12:40 UTC] PHP Notice:  Undefined variable: date in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 91
+[21-Apr-2019 14:12:40 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[21-Apr-2019 14:12:40 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[21-Apr-2019 14:13:50 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[21-Apr-2019 14:13:50 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[22-Apr-2019 13:41:07 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[22-Apr-2019 13:41:07 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[28-Apr-2019 18:37:14 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[28-Apr-2019 18:37:14 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[30-Apr-2019 05:47:01 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[30-Apr-2019 05:47:01 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[30-Apr-2019 05:47:03 UTC] PHP Notice:  Undefined variable: query in /home/umv5h8yz2e20/grocease.com/pages/header.php on line 6
+[30-Apr-2019 05:47:03 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/umv5h8yz2e20/grocease.com/pages/header.php on line 6
+[30-Apr-2019 05:47:03 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/pages/header.php on line 8
+[30-Apr-2019 05:47:03 UTC] PHP Notice:  Uninitialized string offset: 4 in /home/umv5h8yz2e20/grocease.com/pages/header.php on line 45
+[30-Apr-2019 05:47:03 UTC] PHP Notice:  Uninitialized string offset: 5 in /home/umv5h8yz2e20/grocease.com/pages/header.php on line 45
+[30-Apr-2019 05:47:03 UTC] PHP Notice:  Uninitialized string offset: 6 in /home/umv5h8yz2e20/grocease.com/pages/header.php on line 45
+[30-Apr-2019 05:47:03 UTC] PHP Notice:  Uninitialized string offset: 7 in /home/umv5h8yz2e20/grocease.com/pages/header.php on line 45
+[30-Apr-2019 05:51:44 UTC] PHP Notice:  Uninitialized string offset: 4 in /home/umv5h8yz2e20/grocease.com/pages/header.php on line 45
+[30-Apr-2019 05:51:44 UTC] PHP Notice:  Uninitialized string offset: 5 in /home/umv5h8yz2e20/grocease.com/pages/header.php on line 45
+[30-Apr-2019 05:51:44 UTC] PHP Notice:  Uninitialized string offset: 6 in /home/umv5h8yz2e20/grocease.com/pages/header.php on line 45
+[30-Apr-2019 05:51:44 UTC] PHP Notice:  Uninitialized string offset: 7 in /home/umv5h8yz2e20/grocease.com/pages/header.php on line 45
+[30-Apr-2019 05:52:20 UTC] PHP Notice:  Uninitialized string offset: 4 in /home/umv5h8yz2e20/grocease.com/pages/header.php on line 45
+[30-Apr-2019 05:52:20 UTC] PHP Notice:  Uninitialized string offset: 5 in /home/umv5h8yz2e20/grocease.com/pages/header.php on line 45
+[30-Apr-2019 05:52:20 UTC] PHP Notice:  Uninitialized string offset: 6 in /home/umv5h8yz2e20/grocease.com/pages/header.php on line 45
+[30-Apr-2019 05:52:20 UTC] PHP Notice:  Uninitialized string offset: 7 in /home/umv5h8yz2e20/grocease.com/pages/header.php on line 45
+[29-May-2019 21:43:33 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[29-May-2019 21:43:33 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[30-May-2019 13:02:01 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[30-May-2019 13:02:01 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[03-Jun-2019 07:50:45 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[03-Jun-2019 07:50:45 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[03-Jun-2019 07:54:48 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[03-Jun-2019 07:54:48 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[07-Jun-2019 14:47:50 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[07-Jun-2019 14:47:50 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[21-Aug-2019 07:39:32 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[21-Aug-2019 07:39:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[22-Aug-2019 04:27:28 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[22-Aug-2019 04:27:28 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[22-Aug-2019 08:32:47 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[22-Aug-2019 08:32:47 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[30-Aug-2019 18:18:40 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[30-Aug-2019 18:18:40 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[14-Oct-2019 17:44:02 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[14-Oct-2019 17:44:02 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[24-Oct-2019 18:14:04 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[24-Oct-2019 18:14:04 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[27-Nov-2019 04:50:32 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[27-Nov-2019 04:50:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[27-Nov-2019 05:07:06 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[27-Nov-2019 05:07:06 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[27-Nov-2019 06:10:00 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[27-Nov-2019 06:10:00 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[27-Nov-2019 07:00:34 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[27-Nov-2019 07:00:34 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[27-Nov-2019 08:23:56 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[27-Nov-2019 08:23:56 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[27-Nov-2019 09:05:28 UTC] PHP Notice:  Undefined variable: date in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 91
+[27-Nov-2019 09:05:28 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[27-Nov-2019 09:05:28 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[27-Nov-2019 09:23:32 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[27-Nov-2019 09:23:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[30-Nov-2019 04:38:36 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[30-Nov-2019 04:38:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[30-Nov-2019 06:18:35 UTC] PHP Notice:  Undefined variable: date in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 91
+[30-Nov-2019 06:18:35 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[30-Nov-2019 06:18:35 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[30-Nov-2019 06:18:38 UTC] PHP Notice:  Undefined variable: query in /home/umv5h8yz2e20/grocease.com/pages/header.php on line 6
+[30-Nov-2019 06:18:38 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/umv5h8yz2e20/grocease.com/pages/header.php on line 6
+[30-Nov-2019 06:18:38 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/pages/header.php on line 8
+[04-Dec-2019 06:50:43 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[04-Dec-2019 06:50:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[04-Dec-2019 08:29:57 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[04-Dec-2019 08:29:57 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[04-Dec-2019 08:30:06 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
+[04-Dec-2019 08:30:06 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/delivery/index.php on line 106
