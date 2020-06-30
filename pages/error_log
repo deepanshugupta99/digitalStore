@@ -1,0 +1,57 @@
+[14-Jan-2019 15:13:29 UTC] PHP Warning:  mkdir(): No such file or directory in /home/umv5h8yz2e20/grocease.com/pages/change_image.php on line 17
+[14-Jan-2019 15:13:29 UTC] PHP Warning:  move_uploaded_file(../user_image/2/received_833252540189272.jpeg): failed to open stream: No such file or directory in /home/umv5h8yz2e20/grocease.com/pages/change_image.php on line 56
+[14-Jan-2019 15:13:29 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phplmeTFe' to '../user_image/2/received_833252540189272.jpeg' in /home/umv5h8yz2e20/grocease.com/pages/change_image.php on line 56
+[14-Jan-2019 15:13:47 UTC] PHP Warning:  mkdir(): No such file or directory in /home/umv5h8yz2e20/grocease.com/pages/change_image.php on line 17
+[14-Jan-2019 15:13:47 UTC] PHP Warning:  move_uploaded_file(../user_image/2/received_833252540189272.jpeg): failed to open stream: No such file or directory in /home/umv5h8yz2e20/grocease.com/pages/change_image.php on line 56
+[14-Jan-2019 15:13:47 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpWBMajU' to '../user_image/2/received_833252540189272.jpeg' in /home/umv5h8yz2e20/grocease.com/pages/change_image.php on line 56
+[14-Jan-2019 15:17:16 UTC] PHP Warning:  mkdir(): No such file or directory in /home/umv5h8yz2e20/grocease.com/pages/change_image.php on line 17
+[14-Jan-2019 15:17:16 UTC] PHP Warning:  move_uploaded_file(../user_image/2/1.png): failed to open stream: No such file or directory in /home/umv5h8yz2e20/grocease.com/pages/change_image.php on line 56
+[14-Jan-2019 15:17:16 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpOlRZ3b' to '../user_image/2/1.png' in /home/umv5h8yz2e20/grocease.com/pages/change_image.php on line 56
+[15-Jan-2019 10:07:31 UTC] PHP Notice:  Undefined index: name in /home/umv5h8yz2e20/grocease.com/pages/change_profile_functionality.php on line 4
+[15-Jan-2019 10:07:31 UTC] PHP Notice:  Undefined index: password in /home/umv5h8yz2e20/grocease.com/pages/change_profile_functionality.php on line 5
+[15-Jan-2019 10:07:36 UTC] PHP Notice:  Undefined index: name in /home/umv5h8yz2e20/grocease.com/pages/change_profile_functionality.php on line 4
+[15-Jan-2019 10:07:36 UTC] PHP Notice:  Undefined index: password in /home/umv5h8yz2e20/grocease.com/pages/change_profile_functionality.php on line 5
+[15-Jan-2019 10:10:51 UTC] PHP Notice:  Undefined index: name in /home/umv5h8yz2e20/grocease.com/pages/change_profile_functionality.php on line 4
+[15-Jan-2019 10:10:51 UTC] PHP Notice:  Undefined index: password in /home/umv5h8yz2e20/grocease.com/pages/change_profile_functionality.php on line 5
+[15-Jan-2019 10:14:15 UTC] PHP Parse error:  syntax error, unexpected '[', expecting '(' in /home/umv5h8yz2e20/grocease.com/pages/change_profile_functionality.php on line 4
+[15-Jan-2019 10:16:46 UTC] PHP Parse error:  syntax error, unexpected '[', expecting '(' in /home/umv5h8yz2e20/grocease.com/pages/change_profile_functionality.php on line 4
+[15-Jan-2019 10:16:47 UTC] PHP Parse error:  syntax error, unexpected '[', expecting '(' in /home/umv5h8yz2e20/grocease.com/pages/change_profile_functionality.php on line 4
+[15-Jan-2019 10:16:55 UTC] PHP Parse error:  syntax error, unexpected '[', expecting '(' in /home/umv5h8yz2e20/grocease.com/pages/change_profile_functionality.php on line 4
+[15-Jan-2019 10:17:31 UTC] PHP Parse error:  syntax error, unexpected '[', expecting '(' in /home/umv5h8yz2e20/grocease.com/pages/change_profile_functionality.php on line 4
+[15-Jan-2019 10:18:43 UTC] PHP Parse error:  syntax error, unexpected 'Please' (T_STRING), expecting ',' or ';' in /home/umv5h8yz2e20/grocease.com/pages/change_profile_functionality.php on line 13
+[15-Jan-2019 10:18:45 UTC] PHP Parse error:  syntax error, unexpected 'Please' (T_STRING), expecting ',' or ';' in /home/umv5h8yz2e20/grocease.com/pages/change_profile_functionality.php on line 13
+[15-Jan-2019 10:18:49 UTC] PHP Parse error:  syntax error, unexpected 'Please' (T_STRING), expecting ',' or ';' in /home/umv5h8yz2e20/grocease.com/pages/change_profile_functionality.php on line 13
+[15-Jan-2019 10:19:11 UTC] PHP Parse error:  syntax error, unexpected 'Please' (T_STRING), expecting ',' or ';' in /home/umv5h8yz2e20/grocease.com/pages/change_profile_functionality.php on line 13
+[15-Jan-2019 10:19:15 UTC] PHP Parse error:  syntax error, unexpected 'Please' (T_STRING), expecting ',' or ';' in /home/umv5h8yz2e20/grocease.com/pages/change_profile_functionality.php on line 13
+[15-Jan-2019 23:52:20 Asia/Kolkata] PHP Notice:  Undefined variable: query in /home/umv5h8yz2e20/grocease.com/pages/cart_functionality.php on line 134
+[15-Jan-2019 23:52:20 Asia/Kolkata] PHP Notice:  Undefined variable: uid in /home/umv5h8yz2e20/grocease.com/pages/cart_functionality.php on line 134
+[15-Jan-2019 23:52:20 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/umv5h8yz2e20/grocease.com/pages/cart_functionality.php on line 134
+[15-Jan-2019 23:52:20 Asia/Kolkata] PHP Notice:  Undefined variable: query in /home/umv5h8yz2e20/grocease.com/pages/cart_functionality.php on line 135
+[15-Jan-2019 23:52:20 Asia/Kolkata] PHP Notice:  Undefined variable: uid in /home/umv5h8yz2e20/grocease.com/pages/cart_functionality.php on line 135
+[15-Jan-2019 23:52:20 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/umv5h8yz2e20/grocease.com/pages/cart_functionality.php on line 135
+[15-Jan-2019 23:52:20 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/pages/cart_functionality.php on line 136
+[15-Jan-2019 23:52:20 Asia/Kolkata] PHP Notice:  Undefined variable: query in /home/umv5h8yz2e20/grocease.com/pages/cart_functionality.php on line 139
+[15-Jan-2019 23:52:20 Asia/Kolkata] PHP Notice:  Undefined variable: uid in /home/umv5h8yz2e20/grocease.com/pages/cart_functionality.php on line 139
+[15-Jan-2019 23:52:20 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/umv5h8yz2e20/grocease.com/pages/cart_functionality.php on line 139
+[15-Jan-2019 23:52:20 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/pages/cart_functionality.php on line 141
+[15-Jan-2019 23:52:20 Asia/Kolkata] PHP Notice:  Undefined variable: query in /home/umv5h8yz2e20/grocease.com/pages/cart_functionality.php on line 159
+[15-Jan-2019 23:52:20 Asia/Kolkata] PHP Notice:  Undefined variable: uid in /home/umv5h8yz2e20/grocease.com/pages/cart_functionality.php on line 159
+[15-Jan-2019 23:52:20 Asia/Kolkata] PHP Notice:  Undefined variable: current_date in /home/umv5h8yz2e20/grocease.com/pages/cart_functionality.php on line 159
+[15-Jan-2019 23:52:20 Asia/Kolkata] PHP Recoverable fatal error:  Object of class DateTime could not be converted to string in /home/umv5h8yz2e20/grocease.com/pages/cart_functionality.php on line 159
+[16-Jan-2019 00:22:41 Asia/Kolkata] PHP Notice:  Undefined variable: query in /home/umv5h8yz2e20/grocease.com/pages/cart_functionality.php on line 134
+[16-Jan-2019 00:22:41 Asia/Kolkata] PHP Notice:  Undefined variable: uid in /home/umv5h8yz2e20/grocease.com/pages/cart_functionality.php on line 134
+[16-Jan-2019 00:22:41 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/umv5h8yz2e20/grocease.com/pages/cart_functionality.php on line 134
+[16-Jan-2019 00:22:41 Asia/Kolkata] PHP Notice:  Undefined variable: query in /home/umv5h8yz2e20/grocease.com/pages/cart_functionality.php on line 135
+[16-Jan-2019 00:22:41 Asia/Kolkata] PHP Notice:  Undefined variable: uid in /home/umv5h8yz2e20/grocease.com/pages/cart_functionality.php on line 135
+[16-Jan-2019 00:22:41 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/umv5h8yz2e20/grocease.com/pages/cart_functionality.php on line 135
+[16-Jan-2019 00:22:41 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/pages/cart_functionality.php on line 136
+[16-Jan-2019 00:22:41 Asia/Kolkata] PHP Notice:  Undefined variable: query in /home/umv5h8yz2e20/grocease.com/pages/cart_functionality.php on line 139
+[16-Jan-2019 00:22:41 Asia/Kolkata] PHP Notice:  Undefined variable: uid in /home/umv5h8yz2e20/grocease.com/pages/cart_functionality.php on line 139
+[16-Jan-2019 00:22:41 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/umv5h8yz2e20/grocease.com/pages/cart_functionality.php on line 139
+[16-Jan-2019 00:22:41 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/pages/cart_functionality.php on line 141
+[16-Jan-2019 00:22:41 Asia/Kolkata] PHP Notice:  Undefined variable: query in /home/umv5h8yz2e20/grocease.com/pages/cart_functionality.php on line 159
+[16-Jan-2019 00:22:41 Asia/Kolkata] PHP Notice:  Undefined variable: uid in /home/umv5h8yz2e20/grocease.com/pages/cart_functionality.php on line 159
+[16-Jan-2019 00:22:41 Asia/Kolkata] PHP Notice:  Undefined variable: current_date in /home/umv5h8yz2e20/grocease.com/pages/cart_functionality.php on line 159
+[16-Jan-2019 00:22:41 Asia/Kolkata] PHP Recoverable fatal error:  Object of class DateTime could not be converted to string in /home/umv5h8yz2e20/grocease.com/pages/cart_functionality.php on line 159
+[28-Jan-2019 18:48:37 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home/umv5h8yz2e20/grocease.com/pages/change_image.php on line 26
+[03-Apr-2019 03:33:00 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/umv5h8yz2e20/grocease.com/pages/search.php on line 7
