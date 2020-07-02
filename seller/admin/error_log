@@ -1,0 +1,850 @@
+[15-Jan-2019 13:59:01 UTC] PHP Notice:  Undefined variable: query in /home/umv5h8yz2e20/grocease.com/seller/admin/myadds.php on line 222
+[15-Jan-2019 13:59:01 UTC] PHP Notice:  Undefined variable: bid in /home/umv5h8yz2e20/grocease.com/seller/admin/myadds.php on line 222
+[15-Jan-2019 13:59:01 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/umv5h8yz2e20/grocease.com/seller/admin/myadds.php on line 222
+[15-Jan-2019 13:59:01 UTC] PHP Notice:  Undefined variable: bid in /home/umv5h8yz2e20/grocease.com/seller/admin/myadds.php on line 223
+[15-Jan-2019 13:59:01 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/seller/admin/myadds.php on line 225
+[15-Jan-2019 19:58:41 UTC] PHP Notice:  Undefined variable: oid in /home/umv5h8yz2e20/grocease.com/seller/admin/view_order_details.php on line 214
+[15-Jan-2019 19:58:41 UTC] PHP Notice:  Undefined variable: oid in /home/umv5h8yz2e20/grocease.com/seller/admin/view_order_details.php on line 217
+[15-Jan-2019 19:58:41 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/seller/admin/view_order_details.php on line 236
+[15-Jan-2019 19:58:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/seller/admin/view_order_details.php on line 236
+[15-Jan-2019 19:58:45 UTC] PHP Notice:  Undefined variable: oid in /home/umv5h8yz2e20/grocease.com/seller/admin/view_order_details.php on line 214
+[15-Jan-2019 19:58:45 UTC] PHP Notice:  Undefined variable: oid in /home/umv5h8yz2e20/grocease.com/seller/admin/view_order_details.php on line 217
+[15-Jan-2019 19:58:45 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/seller/admin/view_order_details.php on line 236
+[15-Jan-2019 19:58:45 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/seller/admin/view_order_details.php on line 236
+[15-Jan-2019 19:58:48 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/seller/admin/view_orders.php on line 234
+[15-Jan-2019 19:58:48 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/seller/admin/view_orders.php on line 234
+[15-Jan-2019 19:58:48 UTC] PHP Notice:  Undefined index: mname in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 229
+[15-Jan-2019 19:58:48 UTC] PHP Notice:  Undefined index: mname in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 234
+[15-Jan-2019 19:58:48 UTC] PHP Notice:  Undefined variable: bid_result2 in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 244
+[15-Jan-2019 19:58:48 UTC] PHP Notice:  Undefined variable: bid_result2 in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 245
+[15-Jan-2019 19:58:48 UTC] PHP Notice:  Undefined variable: bid_result2 in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 246
+[15-Jan-2019 19:58:48 UTC] PHP Notice:  Undefined variable: bid_result2 in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 247
+[15-Jan-2019 19:58:48 UTC] PHP Notice:  Undefined variable: bid_result2 in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 248
+[15-Jan-2019 19:58:48 UTC] PHP Notice:  Undefined variable: query in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 249
+[15-Jan-2019 19:58:48 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 249
+[15-Jan-2019 19:58:48 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 250
+[15-Jan-2019 19:58:48 UTC] PHP Notice:  Undefined variable: bid_result2 in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 252
+[15-Jan-2019 19:58:48 UTC] PHP Notice:  Undefined variable: query in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 253
+[15-Jan-2019 19:58:48 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 253
+[15-Jan-2019 19:58:48 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 254
+[15-Jan-2019 19:58:48 UTC] PHP Notice:  Undefined variable: bid_result2 in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 256
+[15-Jan-2019 19:58:48 UTC] PHP Notice:  Undefined variable: query in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 257
+[15-Jan-2019 19:58:48 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 257
+[15-Jan-2019 19:58:48 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 258
+[15-Jan-2019 19:58:48 UTC] PHP Notice:  Undefined variable: bid_result2 in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 260
+[15-Jan-2019 19:58:48 UTC] PHP Notice:  Undefined variable: bid_result2 in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 261
+[15-Jan-2019 19:58:48 UTC] PHP Notice:  Undefined variable: bid_result2 in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 262
+[15-Jan-2019 19:58:48 UTC] PHP Notice:  Undefined variable: bid_result2 in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 263
+[15-Jan-2019 19:58:50 UTC] PHP Notice:  Undefined index: mname in /home/umv5h8yz2e20/grocease.com/seller/admin/add_product.php on line 204
+[15-Jan-2019 19:58:50 UTC] PHP Notice:  Undefined index: mname in /home/umv5h8yz2e20/grocease.com/seller/admin/add_product.php on line 209
+[15-Jan-2019 19:58:50 UTC] PHP Notice:  Undefined index: bname in /home/umv5h8yz2e20/grocease.com/seller/admin/add_product.php on line 216
+[15-Jan-2019 19:58:51 UTC] PHP Notice:  Undefined variable: query in /home/umv5h8yz2e20/grocease.com/seller/admin/myadds.php on line 222
+[15-Jan-2019 19:58:51 UTC] PHP Notice:  Undefined variable: bid in /home/umv5h8yz2e20/grocease.com/seller/admin/myadds.php on line 222
+[15-Jan-2019 19:58:51 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/umv5h8yz2e20/grocease.com/seller/admin/myadds.php on line 222
+[15-Jan-2019 19:58:51 UTC] PHP Notice:  Undefined variable: bid in /home/umv5h8yz2e20/grocease.com/seller/admin/myadds.php on line 223
+[15-Jan-2019 19:58:51 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/seller/admin/myadds.php on line 225
+[16-Jan-2019 06:17:04 UTC] PHP Notice:  Undefined variable: query in /home/umv5h8yz2e20/grocease.com/seller/admin/myadds.php on line 222
+[16-Jan-2019 06:17:04 UTC] PHP Notice:  Undefined variable: bid in /home/umv5h8yz2e20/grocease.com/seller/admin/myadds.php on line 222
+[16-Jan-2019 06:17:04 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/umv5h8yz2e20/grocease.com/seller/admin/myadds.php on line 222
+[16-Jan-2019 06:17:04 UTC] PHP Notice:  Undefined variable: bid in /home/umv5h8yz2e20/grocease.com/seller/admin/myadds.php on line 223
+[16-Jan-2019 06:17:04 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/seller/admin/myadds.php on line 225
+[16-Jan-2019 15:28:13 UTC] PHP Notice:  Undefined index: img1 in /home/umv5h8yz2e20/grocease.com/seller/admin/register-business.php on line 74
+[16-Jan-2019 15:28:13 UTC] PHP Notice:  Undefined index: img2 in /home/umv5h8yz2e20/grocease.com/seller/admin/register-business.php on line 75
+[16-Jan-2019 15:28:13 UTC] PHP Notice:  Undefined index: img1 in /home/umv5h8yz2e20/grocease.com/seller/admin/register-business.php on line 84
+[16-Jan-2019 15:28:13 UTC] PHP Notice:  Undefined index: img2 in /home/umv5h8yz2e20/grocease.com/seller/admin/register-business.php on line 87
+[16-Jan-2019 15:28:13 UTC] PHP Notice:  Undefined index: img1 in /home/umv5h8yz2e20/grocease.com/seller/admin/register-business.php on line 96
+[16-Jan-2019 15:28:13 UTC] PHP Notice:  Undefined index: img2 in /home/umv5h8yz2e20/grocease.com/seller/admin/register-business.php on line 97
+[16-Jan-2019 15:45:54 UTC] PHP Notice:  Undefined index: img1 in /home/umv5h8yz2e20/grocease.com/seller/admin/register-business.php on line 78
+[16-Jan-2019 15:45:54 UTC] PHP Notice:  Undefined index: img2 in /home/umv5h8yz2e20/grocease.com/seller/admin/register-business.php on line 79
+[16-Jan-2019 15:45:54 UTC] PHP Notice:  Undefined index: img1 in /home/umv5h8yz2e20/grocease.com/seller/admin/register-business.php on line 80
+[16-Jan-2019 15:45:54 UTC] PHP Notice:  Undefined index: img2 in /home/umv5h8yz2e20/grocease.com/seller/admin/register-business.php on line 81
+[16-Jan-2019 15:45:54 UTC] PHP Notice:  Undefined index: img1 in /home/umv5h8yz2e20/grocease.com/seller/admin/register-business.php on line 108
+[16-Jan-2019 15:45:54 UTC] PHP Notice:  Undefined index: img2 in /home/umv5h8yz2e20/grocease.com/seller/admin/register-business.php on line 112
+[16-Jan-2019 15:52:06 UTC] PHP Notice:  Undefined index: img1 in /home/umv5h8yz2e20/grocease.com/seller/admin/register-business.php on line 78
+[16-Jan-2019 15:52:06 UTC] PHP Notice:  Undefined index: img2 in /home/umv5h8yz2e20/grocease.com/seller/admin/register-business.php on line 79
+[16-Jan-2019 15:52:06 UTC] PHP Notice:  Undefined index: img1 in /home/umv5h8yz2e20/grocease.com/seller/admin/register-business.php on line 80
+[16-Jan-2019 15:52:06 UTC] PHP Notice:  Undefined index: img2 in /home/umv5h8yz2e20/grocease.com/seller/admin/register-business.php on line 81
+[16-Jan-2019 15:52:06 UTC] PHP Notice:  Undefined index: img1 in /home/umv5h8yz2e20/grocease.com/seller/admin/register-business.php on line 108
+[16-Jan-2019 15:52:06 UTC] PHP Notice:  Undefined index: img2 in /home/umv5h8yz2e20/grocease.com/seller/admin/register-business.php on line 112
+[16-Jan-2019 17:36:20 UTC] PHP Notice:  Undefined index: img1 in /home/umv5h8yz2e20/grocease.com/seller/admin/register-business.php on line 78
+[16-Jan-2019 17:36:20 UTC] PHP Notice:  Undefined index: img1 in /home/umv5h8yz2e20/grocease.com/seller/admin/register-business.php on line 79
+[16-Jan-2019 17:36:20 UTC] PHP Notice:  Undefined index: img1 in /home/umv5h8yz2e20/grocease.com/seller/admin/register-business.php on line 84
+[16-Jan-2019 17:36:20 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home/umv5h8yz2e20/grocease.com/seller/admin/register-business.php on line 84
+[16-Jan-2019 17:36:20 UTC] PHP Notice:  Undefined index: img1 in /home/umv5h8yz2e20/grocease.com/seller/admin/register-business.php on line 99
+[16-Jan-2019 17:36:20 UTC] PHP Notice:  Undefined index: img2 in /home/umv5h8yz2e20/grocease.com/seller/admin/register-business.php on line 135
+[16-Jan-2019 17:36:20 UTC] PHP Notice:  Undefined index: img2 in /home/umv5h8yz2e20/grocease.com/seller/admin/register-business.php on line 136
+[16-Jan-2019 17:36:20 UTC] PHP Notice:  Undefined index: img2 in /home/umv5h8yz2e20/grocease.com/seller/admin/register-business.php on line 141
+[16-Jan-2019 17:36:20 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home/umv5h8yz2e20/grocease.com/seller/admin/register-business.php on line 141
+[16-Jan-2019 17:36:20 UTC] PHP Notice:  Undefined index: img2 in /home/umv5h8yz2e20/grocease.com/seller/admin/register-business.php on line 156
+[16-Jan-2019 17:42:52 UTC] PHP Notice:  Undefined index: img1 in /home/umv5h8yz2e20/grocease.com/seller/admin/register-business.php on line 78
+[16-Jan-2019 17:42:52 UTC] PHP Notice:  Undefined index: img1 in /home/umv5h8yz2e20/grocease.com/seller/admin/register-business.php on line 79
+[16-Jan-2019 17:42:52 UTC] PHP Notice:  Undefined index: img1 in /home/umv5h8yz2e20/grocease.com/seller/admin/register-business.php on line 84
+[16-Jan-2019 17:42:52 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home/umv5h8yz2e20/grocease.com/seller/admin/register-business.php on line 84
+[16-Jan-2019 17:42:52 UTC] PHP Notice:  Undefined index: img1 in /home/umv5h8yz2e20/grocease.com/seller/admin/register-business.php on line 99
+[16-Jan-2019 17:42:52 UTC] PHP Notice:  Undefined index: img2 in /home/umv5h8yz2e20/grocease.com/seller/admin/register-business.php on line 135
+[16-Jan-2019 17:42:52 UTC] PHP Notice:  Undefined index: img2 in /home/umv5h8yz2e20/grocease.com/seller/admin/register-business.php on line 136
+[16-Jan-2019 17:42:52 UTC] PHP Notice:  Undefined index: img2 in /home/umv5h8yz2e20/grocease.com/seller/admin/register-business.php on line 141
+[16-Jan-2019 17:42:52 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home/umv5h8yz2e20/grocease.com/seller/admin/register-business.php on line 141
+[16-Jan-2019 17:42:52 UTC] PHP Notice:  Undefined index: img2 in /home/umv5h8yz2e20/grocease.com/seller/admin/register-business.php on line 156
+[16-Jan-2019 17:43:58 UTC] PHP Notice:  Undefined index: img1 in /home/umv5h8yz2e20/grocease.com/seller/admin/register-business.php on line 78
+[16-Jan-2019 17:43:58 UTC] PHP Notice:  Undefined index: img1 in /home/umv5h8yz2e20/grocease.com/seller/admin/register-business.php on line 80
+[16-Jan-2019 17:43:58 UTC] PHP Notice:  Undefined index: img1 in /home/umv5h8yz2e20/grocease.com/seller/admin/register-business.php on line 85
+[16-Jan-2019 17:43:58 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home/umv5h8yz2e20/grocease.com/seller/admin/register-business.php on line 85
+[16-Jan-2019 17:43:58 UTC] PHP Notice:  Undefined index: img1 in /home/umv5h8yz2e20/grocease.com/seller/admin/register-business.php on line 100
+[16-Jan-2019 17:43:58 UTC] PHP Notice:  Undefined index: img2 in /home/umv5h8yz2e20/grocease.com/seller/admin/register-business.php on line 136
+[16-Jan-2019 17:43:58 UTC] PHP Notice:  Undefined index: img2 in /home/umv5h8yz2e20/grocease.com/seller/admin/register-business.php on line 137
+[16-Jan-2019 17:43:58 UTC] PHP Notice:  Undefined index: img2 in /home/umv5h8yz2e20/grocease.com/seller/admin/register-business.php on line 142
+[16-Jan-2019 17:43:58 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home/umv5h8yz2e20/grocease.com/seller/admin/register-business.php on line 142
+[16-Jan-2019 17:43:58 UTC] PHP Notice:  Undefined index: img2 in /home/umv5h8yz2e20/grocease.com/seller/admin/register-business.php on line 157
+[16-Jan-2019 17:47:32 UTC] PHP Notice:  Undefined index: img1 in /home/umv5h8yz2e20/grocease.com/seller/admin/register-business.php on line 78
+[16-Jan-2019 17:47:32 UTC] PHP Notice:  Undefined index: img1 in /home/umv5h8yz2e20/grocease.com/seller/admin/register-business.php on line 80
+[16-Jan-2019 17:47:32 UTC] PHP Notice:  Undefined index: img1 in /home/umv5h8yz2e20/grocease.com/seller/admin/register-business.php on line 85
+[16-Jan-2019 17:47:32 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home/umv5h8yz2e20/grocease.com/seller/admin/register-business.php on line 85
+[16-Jan-2019 17:47:32 UTC] PHP Notice:  Undefined index: img1 in /home/umv5h8yz2e20/grocease.com/seller/admin/register-business.php on line 100
+[16-Jan-2019 17:47:32 UTC] PHP Notice:  Undefined index: img2 in /home/umv5h8yz2e20/grocease.com/seller/admin/register-business.php on line 136
+[16-Jan-2019 17:47:32 UTC] PHP Notice:  Undefined index: img2 in /home/umv5h8yz2e20/grocease.com/seller/admin/register-business.php on line 137
+[16-Jan-2019 17:47:32 UTC] PHP Notice:  Undefined index: img2 in /home/umv5h8yz2e20/grocease.com/seller/admin/register-business.php on line 142
+[16-Jan-2019 17:47:32 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home/umv5h8yz2e20/grocease.com/seller/admin/register-business.php on line 142
+[16-Jan-2019 17:47:32 UTC] PHP Notice:  Undefined index: img2 in /home/umv5h8yz2e20/grocease.com/seller/admin/register-business.php on line 157
+[16-Jan-2019 17:50:24 UTC] PHP Notice:  Undefined index: img1 in /home/umv5h8yz2e20/grocease.com/seller/admin/register-business.php on line 78
+[16-Jan-2019 17:50:24 UTC] PHP Notice:  Undefined index: img1 in /home/umv5h8yz2e20/grocease.com/seller/admin/register-business.php on line 80
+[16-Jan-2019 17:50:24 UTC] PHP Notice:  Undefined index: img1 in /home/umv5h8yz2e20/grocease.com/seller/admin/register-business.php on line 85
+[16-Jan-2019 17:50:24 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home/umv5h8yz2e20/grocease.com/seller/admin/register-business.php on line 85
+[16-Jan-2019 17:50:24 UTC] PHP Notice:  Undefined index: img1 in /home/umv5h8yz2e20/grocease.com/seller/admin/register-business.php on line 100
+[16-Jan-2019 17:50:24 UTC] PHP Notice:  Undefined index: img2 in /home/umv5h8yz2e20/grocease.com/seller/admin/register-business.php on line 136
+[16-Jan-2019 17:50:24 UTC] PHP Notice:  Undefined index: img2 in /home/umv5h8yz2e20/grocease.com/seller/admin/register-business.php on line 137
+[16-Jan-2019 17:50:24 UTC] PHP Notice:  Undefined index: img2 in /home/umv5h8yz2e20/grocease.com/seller/admin/register-business.php on line 142
+[16-Jan-2019 17:50:24 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home/umv5h8yz2e20/grocease.com/seller/admin/register-business.php on line 142
+[16-Jan-2019 17:50:24 UTC] PHP Notice:  Undefined index: img2 in /home/umv5h8yz2e20/grocease.com/seller/admin/register-business.php on line 157
+[16-Jan-2019 17:54:36 UTC] PHP Warning:  Illegal string offset 'tmp_name' in /home/umv5h8yz2e20/grocease.com/seller/admin/register-business.php on line 85
+[16-Jan-2019 17:54:36 UTC] PHP Warning:  getimagesize(t): failed to open stream: No such file or directory in /home/umv5h8yz2e20/grocease.com/seller/admin/register-business.php on line 85
+[16-Jan-2019 17:54:36 UTC] PHP Warning:  Illegal string offset 'size' in /home/umv5h8yz2e20/grocease.com/seller/admin/register-business.php on line 100
+[16-Jan-2019 17:54:36 UTC] PHP Notice:  Undefined index: img2 in /home/umv5h8yz2e20/grocease.com/seller/admin/register-business.php on line 136
+[16-Jan-2019 17:54:36 UTC] PHP Notice:  Undefined index: img2 in /home/umv5h8yz2e20/grocease.com/seller/admin/register-business.php on line 137
+[16-Jan-2019 17:54:36 UTC] PHP Notice:  Undefined index: img2 in /home/umv5h8yz2e20/grocease.com/seller/admin/register-business.php on line 142
+[16-Jan-2019 17:54:36 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home/umv5h8yz2e20/grocease.com/seller/admin/register-business.php on line 142
+[16-Jan-2019 17:54:36 UTC] PHP Notice:  Undefined index: img2 in /home/umv5h8yz2e20/grocease.com/seller/admin/register-business.php on line 157
+[16-Jan-2019 17:55:54 UTC] PHP Notice:  Undefined index: img1 in /home/umv5h8yz2e20/grocease.com/seller/admin/register-business.php on line 78
+[16-Jan-2019 17:55:54 UTC] PHP Notice:  Undefined index: img1 in /home/umv5h8yz2e20/grocease.com/seller/admin/register-business.php on line 80
+[16-Jan-2019 17:55:54 UTC] PHP Notice:  Undefined index: img1 in /home/umv5h8yz2e20/grocease.com/seller/admin/register-business.php on line 85
+[16-Jan-2019 17:55:54 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home/umv5h8yz2e20/grocease.com/seller/admin/register-business.php on line 85
+[16-Jan-2019 17:55:54 UTC] PHP Notice:  Undefined index: img1 in /home/umv5h8yz2e20/grocease.com/seller/admin/register-business.php on line 100
+[16-Jan-2019 17:55:54 UTC] PHP Notice:  Undefined index: img2 in /home/umv5h8yz2e20/grocease.com/seller/admin/register-business.php on line 136
+[16-Jan-2019 17:55:54 UTC] PHP Notice:  Undefined index: img2 in /home/umv5h8yz2e20/grocease.com/seller/admin/register-business.php on line 137
+[16-Jan-2019 17:55:54 UTC] PHP Notice:  Undefined index: img2 in /home/umv5h8yz2e20/grocease.com/seller/admin/register-business.php on line 142
+[16-Jan-2019 17:55:54 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home/umv5h8yz2e20/grocease.com/seller/admin/register-business.php on line 142
+[16-Jan-2019 17:55:54 UTC] PHP Notice:  Undefined index: img2 in /home/umv5h8yz2e20/grocease.com/seller/admin/register-business.php on line 157
+[16-Jan-2019 17:56:50 UTC] PHP Notice:  Undefined index: img1 in /home/umv5h8yz2e20/grocease.com/seller/admin/register-business.php on line 78
+[16-Jan-2019 17:56:50 UTC] PHP Notice:  Undefined index: img1 in /home/umv5h8yz2e20/grocease.com/seller/admin/register-business.php on line 79
+[16-Jan-2019 17:56:50 UTC] PHP Notice:  Undefined index: img1 in /home/umv5h8yz2e20/grocease.com/seller/admin/register-business.php on line 80
+[16-Jan-2019 17:56:50 UTC] PHP Notice:  Undefined index: img1 in /home/umv5h8yz2e20/grocease.com/seller/admin/register-business.php on line 85
+[16-Jan-2019 17:56:50 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home/umv5h8yz2e20/grocease.com/seller/admin/register-business.php on line 85
+[16-Jan-2019 17:56:50 UTC] PHP Notice:  Undefined index: img1 in /home/umv5h8yz2e20/grocease.com/seller/admin/register-business.php on line 100
+[16-Jan-2019 17:56:50 UTC] PHP Notice:  Undefined index: img2 in /home/umv5h8yz2e20/grocease.com/seller/admin/register-business.php on line 136
+[16-Jan-2019 17:56:50 UTC] PHP Notice:  Undefined index: img2 in /home/umv5h8yz2e20/grocease.com/seller/admin/register-business.php on line 137
+[16-Jan-2019 17:56:50 UTC] PHP Notice:  Undefined index: img2 in /home/umv5h8yz2e20/grocease.com/seller/admin/register-business.php on line 142
+[16-Jan-2019 17:56:50 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home/umv5h8yz2e20/grocease.com/seller/admin/register-business.php on line 142
+[16-Jan-2019 17:56:50 UTC] PHP Notice:  Undefined index: img2 in /home/umv5h8yz2e20/grocease.com/seller/admin/register-business.php on line 157
+[16-Jan-2019 18:11:19 UTC] PHP Notice:  Undefined index: img1 in /home/umv5h8yz2e20/grocease.com/seller/admin/register-business.php on line 78
+[16-Jan-2019 18:11:19 UTC] PHP Notice:  Undefined index: img1 in /home/umv5h8yz2e20/grocease.com/seller/admin/register-business.php on line 79
+[16-Jan-2019 18:11:19 UTC] PHP Notice:  Undefined index: img1 in /home/umv5h8yz2e20/grocease.com/seller/admin/register-business.php on line 80
+[16-Jan-2019 18:11:19 UTC] PHP Notice:  Undefined index: img1 in /home/umv5h8yz2e20/grocease.com/seller/admin/register-business.php on line 85
+[16-Jan-2019 18:11:19 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home/umv5h8yz2e20/grocease.com/seller/admin/register-business.php on line 85
+[16-Jan-2019 18:11:19 UTC] PHP Notice:  Undefined index: img1 in /home/umv5h8yz2e20/grocease.com/seller/admin/register-business.php on line 100
+[16-Jan-2019 18:11:19 UTC] PHP Notice:  Undefined index: img2 in /home/umv5h8yz2e20/grocease.com/seller/admin/register-business.php on line 136
+[16-Jan-2019 18:11:19 UTC] PHP Notice:  Undefined index: img2 in /home/umv5h8yz2e20/grocease.com/seller/admin/register-business.php on line 137
+[16-Jan-2019 18:11:19 UTC] PHP Notice:  Undefined index: img2 in /home/umv5h8yz2e20/grocease.com/seller/admin/register-business.php on line 142
+[16-Jan-2019 18:11:19 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home/umv5h8yz2e20/grocease.com/seller/admin/register-business.php on line 142
+[16-Jan-2019 18:11:19 UTC] PHP Notice:  Undefined index: img2 in /home/umv5h8yz2e20/grocease.com/seller/admin/register-business.php on line 157
+[16-Jan-2019 18:16:19 UTC] PHP Notice:  Undefined index: img1 in /home/umv5h8yz2e20/grocease.com/seller/admin/register-business.php on line 79
+[16-Jan-2019 18:16:19 UTC] PHP Notice:  Undefined index: img1 in /home/umv5h8yz2e20/grocease.com/seller/admin/register-business.php on line 80
+[16-Jan-2019 18:16:19 UTC] PHP Notice:  Undefined index: img1 in /home/umv5h8yz2e20/grocease.com/seller/admin/register-business.php on line 81
+[16-Jan-2019 18:16:19 UTC] PHP Notice:  Undefined index: img1 in /home/umv5h8yz2e20/grocease.com/seller/admin/register-business.php on line 82
+[16-Jan-2019 18:16:19 UTC] PHP Notice:  Undefined index: img1 in /home/umv5h8yz2e20/grocease.com/seller/admin/register-business.php on line 83
+[16-Jan-2019 18:16:19 UTC] PHP Notice:  Only variables should be passed by reference in /home/umv5h8yz2e20/grocease.com/seller/admin/register-business.php on line 83
+[16-Jan-2019 18:16:19 UTC] PHP Notice:  Undefined index: img2 in /home/umv5h8yz2e20/grocease.com/seller/admin/register-business.php on line 114
+[16-Jan-2019 18:16:19 UTC] PHP Notice:  Undefined index: img2 in /home/umv5h8yz2e20/grocease.com/seller/admin/register-business.php on line 115
+[16-Jan-2019 18:16:19 UTC] PHP Notice:  Undefined index: img2 in /home/umv5h8yz2e20/grocease.com/seller/admin/register-business.php on line 120
+[16-Jan-2019 18:16:19 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home/umv5h8yz2e20/grocease.com/seller/admin/register-business.php on line 120
+[16-Jan-2019 18:16:19 UTC] PHP Notice:  Undefined index: img2 in /home/umv5h8yz2e20/grocease.com/seller/admin/register-business.php on line 135
+[16-Jan-2019 18:18:05 UTC] PHP Notice:  Only variables should be passed by reference in /home/umv5h8yz2e20/grocease.com/seller/admin/register-business.php on line 83
+[17-Jan-2019 09:23:34 UTC] PHP Notice:  Undefined index: mname in /home/umv5h8yz2e20/grocease.com/seller/admin/add_product.php on line 204
+[17-Jan-2019 09:23:34 UTC] PHP Notice:  Undefined index: mname in /home/umv5h8yz2e20/grocease.com/seller/admin/add_product.php on line 209
+[17-Jan-2019 09:23:34 UTC] PHP Notice:  Undefined index: bname in /home/umv5h8yz2e20/grocease.com/seller/admin/add_product.php on line 216
+[17-Jan-2019 10:04:18 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/seller/admin/view_orders.php on line 234
+[17-Jan-2019 10:04:18 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/seller/admin/view_orders.php on line 234
+[17-Jan-2019 12:09:50 UTC] PHP Notice:  Undefined variable: oid in /home/umv5h8yz2e20/grocease.com/seller/admin/view_order_details.php on line 226
+[17-Jan-2019 12:09:50 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/seller/admin/view_order_details.php on line 243
+[17-Jan-2019 12:09:50 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/seller/admin/view_order_details.php on line 243
+[17-Jan-2019 12:09:50 UTC] PHP Notice:  Undefined variable: oid in /home/umv5h8yz2e20/grocease.com/seller/admin/view_order_details.php on line 289
+[17-Jan-2019 12:09:50 UTC] PHP Notice:  Undefined variable: oid in /home/umv5h8yz2e20/grocease.com/seller/admin/view_order_details.php on line 294
+[17-Jan-2019 21:52:40 UTC] PHP Notice:  Undefined index: mname in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 229
+[17-Jan-2019 21:52:40 UTC] PHP Notice:  Undefined index: mname in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 234
+[17-Jan-2019 21:52:40 UTC] PHP Notice:  Undefined variable: bid_result2 in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 244
+[17-Jan-2019 21:52:40 UTC] PHP Notice:  Undefined variable: bid_result2 in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 245
+[17-Jan-2019 21:52:40 UTC] PHP Notice:  Undefined variable: bid_result2 in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 246
+[17-Jan-2019 21:52:40 UTC] PHP Notice:  Undefined variable: bid_result2 in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 247
+[17-Jan-2019 21:52:40 UTC] PHP Notice:  Undefined variable: bid_result2 in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 248
+[17-Jan-2019 21:52:40 UTC] PHP Notice:  Undefined variable: query in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 249
+[17-Jan-2019 21:52:40 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 249
+[17-Jan-2019 21:52:40 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 250
+[17-Jan-2019 21:52:40 UTC] PHP Notice:  Undefined variable: bid_result2 in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 252
+[17-Jan-2019 21:52:40 UTC] PHP Notice:  Undefined variable: query in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 253
+[17-Jan-2019 21:52:40 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 253
+[17-Jan-2019 21:52:40 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 254
+[17-Jan-2019 21:52:40 UTC] PHP Notice:  Undefined variable: bid_result2 in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 256
+[17-Jan-2019 21:52:40 UTC] PHP Notice:  Undefined variable: query in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 257
+[17-Jan-2019 21:52:40 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 257
+[17-Jan-2019 21:52:40 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 258
+[17-Jan-2019 21:52:40 UTC] PHP Notice:  Undefined variable: bid_result2 in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 260
+[17-Jan-2019 21:52:40 UTC] PHP Notice:  Undefined variable: bid_result2 in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 261
+[17-Jan-2019 21:52:40 UTC] PHP Notice:  Undefined variable: bid_result2 in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 262
+[17-Jan-2019 21:52:40 UTC] PHP Notice:  Undefined variable: bid_result2 in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 263
+[17-Jan-2019 21:52:45 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/seller/admin/view_orders.php on line 234
+[17-Jan-2019 21:52:45 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/seller/admin/view_orders.php on line 234
+[17-Jan-2019 22:19:46 UTC] PHP Notice:  Undefined index: mname in /home/umv5h8yz2e20/grocease.com/seller/admin/add_product.php on line 204
+[17-Jan-2019 22:19:46 UTC] PHP Notice:  Undefined index: mname in /home/umv5h8yz2e20/grocease.com/seller/admin/add_product.php on line 209
+[17-Jan-2019 22:19:46 UTC] PHP Notice:  Undefined index: bname in /home/umv5h8yz2e20/grocease.com/seller/admin/add_product.php on line 216
+[17-Jan-2019 22:19:52 UTC] PHP Notice:  Undefined variable: query in /home/umv5h8yz2e20/grocease.com/seller/admin/myadds.php on line 222
+[17-Jan-2019 22:19:52 UTC] PHP Notice:  Undefined variable: bid in /home/umv5h8yz2e20/grocease.com/seller/admin/myadds.php on line 222
+[17-Jan-2019 22:19:52 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/umv5h8yz2e20/grocease.com/seller/admin/myadds.php on line 222
+[17-Jan-2019 22:19:52 UTC] PHP Notice:  Undefined variable: bid in /home/umv5h8yz2e20/grocease.com/seller/admin/myadds.php on line 223
+[17-Jan-2019 22:19:52 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/seller/admin/myadds.php on line 225
+[17-Jan-2019 22:19:57 UTC] PHP Notice:  Undefined variable: oid in /home/umv5h8yz2e20/grocease.com/seller/admin/view_order_details.php on line 226
+[17-Jan-2019 22:19:57 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/seller/admin/view_order_details.php on line 243
+[17-Jan-2019 22:19:57 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/seller/admin/view_order_details.php on line 243
+[17-Jan-2019 22:19:57 UTC] PHP Notice:  Undefined variable: oid in /home/umv5h8yz2e20/grocease.com/seller/admin/view_order_details.php on line 289
+[17-Jan-2019 22:19:57 UTC] PHP Notice:  Undefined variable: oid in /home/umv5h8yz2e20/grocease.com/seller/admin/view_order_details.php on line 294
+[22-Jan-2019 03:17:52 UTC] PHP Notice:  Undefined variable: query in /home/umv5h8yz2e20/grocease.com/seller/admin/myadds.php on line 222
+[22-Jan-2019 03:17:52 UTC] PHP Notice:  Undefined variable: bid in /home/umv5h8yz2e20/grocease.com/seller/admin/myadds.php on line 222
+[22-Jan-2019 03:17:52 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/umv5h8yz2e20/grocease.com/seller/admin/myadds.php on line 222
+[22-Jan-2019 03:17:52 UTC] PHP Notice:  Undefined variable: bid in /home/umv5h8yz2e20/grocease.com/seller/admin/myadds.php on line 223
+[22-Jan-2019 03:17:52 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/seller/admin/myadds.php on line 225
+[22-Jan-2019 04:35:46 UTC] PHP Notice:  Undefined variable: query in /home/umv5h8yz2e20/grocease.com/seller/admin/myadds.php on line 222
+[22-Jan-2019 04:35:46 UTC] PHP Notice:  Undefined variable: bid in /home/umv5h8yz2e20/grocease.com/seller/admin/myadds.php on line 222
+[22-Jan-2019 04:35:46 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/umv5h8yz2e20/grocease.com/seller/admin/myadds.php on line 222
+[22-Jan-2019 04:35:46 UTC] PHP Notice:  Undefined variable: bid in /home/umv5h8yz2e20/grocease.com/seller/admin/myadds.php on line 223
+[22-Jan-2019 04:35:46 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/seller/admin/myadds.php on line 225
+[22-Jan-2019 15:33:12 UTC] PHP Notice:  Undefined index: mid in /home/umv5h8yz2e20/grocease.com/seller/admin/register-business.php on line 52
+[22-Jan-2019 15:33:12 UTC] PHP Notice:  Undefined index: bid in /home/umv5h8yz2e20/grocease.com/seller/admin/register-business.php on line 53
+[22-Jan-2019 15:33:14 UTC] PHP Notice:  Undefined variable: query in /home/umv5h8yz2e20/grocease.com/seller/admin/myadds.php on line 222
+[22-Jan-2019 15:33:14 UTC] PHP Notice:  Undefined variable: bid in /home/umv5h8yz2e20/grocease.com/seller/admin/myadds.php on line 222
+[22-Jan-2019 15:33:14 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/umv5h8yz2e20/grocease.com/seller/admin/myadds.php on line 222
+[22-Jan-2019 15:33:14 UTC] PHP Notice:  Undefined variable: bid in /home/umv5h8yz2e20/grocease.com/seller/admin/myadds.php on line 223
+[22-Jan-2019 15:33:14 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/seller/admin/myadds.php on line 225
+[23-Jan-2019 20:03:43 UTC] PHP Notice:  Undefined variable: date in /home/umv5h8yz2e20/grocease.com/seller/admin/view_orders.php on line 203
+[23-Jan-2019 20:03:43 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/seller/admin/view_orders.php on line 234
+[23-Jan-2019 20:03:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/seller/admin/view_orders.php on line 234
+[23-Jan-2019 20:04:03 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/seller/admin/view_orders.php on line 234
+[23-Jan-2019 20:04:03 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/seller/admin/view_orders.php on line 234
+[24-Jan-2019 06:21:57 UTC] PHP Notice:  Undefined variable: date in /home/umv5h8yz2e20/grocease.com/seller/admin/view_orders.php on line 203
+[24-Jan-2019 06:21:57 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/seller/admin/view_orders.php on line 234
+[24-Jan-2019 06:21:57 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/seller/admin/view_orders.php on line 234
+[24-Jan-2019 09:02:32 UTC] PHP Notice:  Undefined index: mname in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 229
+[24-Jan-2019 09:02:32 UTC] PHP Notice:  Undefined index: mname in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 234
+[24-Jan-2019 09:02:32 UTC] PHP Notice:  Undefined variable: bid_result2 in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 244
+[24-Jan-2019 09:02:32 UTC] PHP Notice:  Undefined variable: bid_result2 in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 245
+[24-Jan-2019 09:02:32 UTC] PHP Notice:  Undefined variable: bid_result2 in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 246
+[24-Jan-2019 09:02:32 UTC] PHP Notice:  Undefined variable: bid_result2 in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 247
+[24-Jan-2019 09:02:32 UTC] PHP Notice:  Undefined variable: bid_result2 in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 248
+[24-Jan-2019 09:02:32 UTC] PHP Notice:  Undefined variable: query in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 249
+[24-Jan-2019 09:02:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 249
+[24-Jan-2019 09:02:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 250
+[24-Jan-2019 09:02:32 UTC] PHP Notice:  Undefined variable: bid_result2 in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 252
+[24-Jan-2019 09:02:32 UTC] PHP Notice:  Undefined variable: query in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 253
+[24-Jan-2019 09:02:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 253
+[24-Jan-2019 09:02:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 254
+[24-Jan-2019 09:02:32 UTC] PHP Notice:  Undefined variable: bid_result2 in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 256
+[24-Jan-2019 09:02:32 UTC] PHP Notice:  Undefined variable: query in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 257
+[24-Jan-2019 09:02:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 257
+[24-Jan-2019 09:02:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 258
+[24-Jan-2019 09:02:32 UTC] PHP Notice:  Undefined variable: bid_result2 in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 260
+[24-Jan-2019 09:02:32 UTC] PHP Notice:  Undefined variable: bid_result2 in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 261
+[24-Jan-2019 09:02:32 UTC] PHP Notice:  Undefined variable: bid_result2 in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 262
+[24-Jan-2019 09:02:32 UTC] PHP Notice:  Undefined variable: bid_result2 in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 263
+[24-Jan-2019 09:30:01 UTC] PHP Notice:  Undefined variable: oid in /home/umv5h8yz2e20/grocease.com/seller/admin/view_order_details.php on line 226
+[24-Jan-2019 09:30:01 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/seller/admin/view_order_details.php on line 243
+[24-Jan-2019 09:30:01 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/seller/admin/view_order_details.php on line 243
+[24-Jan-2019 09:30:01 UTC] PHP Notice:  Undefined variable: oid in /home/umv5h8yz2e20/grocease.com/seller/admin/view_order_details.php on line 289
+[24-Jan-2019 09:30:01 UTC] PHP Notice:  Undefined variable: oid in /home/umv5h8yz2e20/grocease.com/seller/admin/view_order_details.php on line 294
+[24-Jan-2019 09:45:57 UTC] PHP Notice:  Undefined index: mname in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 229
+[24-Jan-2019 09:45:57 UTC] PHP Notice:  Undefined index: mname in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 234
+[24-Jan-2019 09:45:57 UTC] PHP Notice:  Undefined variable: bid_result2 in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 244
+[24-Jan-2019 09:45:57 UTC] PHP Notice:  Undefined variable: bid_result2 in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 245
+[24-Jan-2019 09:45:57 UTC] PHP Notice:  Undefined variable: bid_result2 in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 246
+[24-Jan-2019 09:45:57 UTC] PHP Notice:  Undefined variable: bid_result2 in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 247
+[24-Jan-2019 09:45:57 UTC] PHP Notice:  Undefined variable: bid_result2 in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 248
+[24-Jan-2019 09:45:57 UTC] PHP Notice:  Undefined variable: query in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 249
+[24-Jan-2019 09:45:57 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 249
+[24-Jan-2019 09:45:57 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 250
+[24-Jan-2019 09:45:57 UTC] PHP Notice:  Undefined variable: bid_result2 in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 252
+[24-Jan-2019 09:45:57 UTC] PHP Notice:  Undefined variable: query in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 253
+[24-Jan-2019 09:45:57 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 253
+[24-Jan-2019 09:45:57 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 254
+[24-Jan-2019 09:45:57 UTC] PHP Notice:  Undefined variable: bid_result2 in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 256
+[24-Jan-2019 09:45:57 UTC] PHP Notice:  Undefined variable: query in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 257
+[24-Jan-2019 09:45:57 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 257
+[24-Jan-2019 09:45:57 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 258
+[24-Jan-2019 09:45:57 UTC] PHP Notice:  Undefined variable: bid_result2 in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 260
+[24-Jan-2019 09:45:57 UTC] PHP Notice:  Undefined variable: bid_result2 in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 261
+[24-Jan-2019 09:45:57 UTC] PHP Notice:  Undefined variable: bid_result2 in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 262
+[24-Jan-2019 09:45:57 UTC] PHP Notice:  Undefined variable: bid_result2 in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 263
+[24-Jan-2019 19:14:20 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/seller/admin/view_orders.php on line 234
+[24-Jan-2019 19:14:20 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/seller/admin/view_orders.php on line 234
+[25-Jan-2019 07:14:01 UTC] PHP Notice:  Undefined variable: query in /home/umv5h8yz2e20/grocease.com/seller/admin/myadds.php on line 222
+[25-Jan-2019 07:14:01 UTC] PHP Notice:  Undefined variable: bid in /home/umv5h8yz2e20/grocease.com/seller/admin/myadds.php on line 222
+[25-Jan-2019 07:14:01 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/umv5h8yz2e20/grocease.com/seller/admin/myadds.php on line 222
+[25-Jan-2019 07:14:01 UTC] PHP Notice:  Undefined variable: bid in /home/umv5h8yz2e20/grocease.com/seller/admin/myadds.php on line 223
+[25-Jan-2019 07:14:01 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/seller/admin/myadds.php on line 225
+[25-Jan-2019 10:10:11 UTC] PHP Notice:  Undefined variable: query in /home/umv5h8yz2e20/grocease.com/seller/admin/myadds.php on line 222
+[25-Jan-2019 10:10:11 UTC] PHP Notice:  Undefined variable: bid in /home/umv5h8yz2e20/grocease.com/seller/admin/myadds.php on line 222
+[25-Jan-2019 10:10:11 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/umv5h8yz2e20/grocease.com/seller/admin/myadds.php on line 222
+[25-Jan-2019 10:10:11 UTC] PHP Notice:  Undefined variable: bid in /home/umv5h8yz2e20/grocease.com/seller/admin/myadds.php on line 223
+[25-Jan-2019 10:10:11 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/seller/admin/myadds.php on line 225
+[25-Jan-2019 13:37:01 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 12
+[25-Jan-2019 13:37:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 12
+[25-Jan-2019 13:38:02 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 12
+[25-Jan-2019 13:39:38 UTC] PHP Parse error:  syntax error, unexpected 'col' (T_STRING), expecting ',' or ';' in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 75
+[25-Jan-2019 13:57:48 UTC] PHP Notice:  Undefined index: mobile in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 15
+[25-Jan-2019 14:19:02 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 30
+[25-Jan-2019 14:19:02 UTC] PHP Notice:  Undefined variable: p_id in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 137
+[25-Jan-2019 14:19:02 UTC] PHP Notice:  Undefined variable: selling_price in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 146
+[25-Jan-2019 14:19:02 UTC] PHP Notice:  Undefined variable: quantity in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 147
+[25-Jan-2019 14:19:02 UTC] PHP Notice:  Undefined variable: selling_price in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 148
+[25-Jan-2019 14:19:02 UTC] PHP Notice:  Undefined variable: quantity in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 148
+[25-Jan-2019 14:19:15 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 30
+[25-Jan-2019 14:19:15 UTC] PHP Notice:  Undefined variable: p_id in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 137
+[25-Jan-2019 14:19:15 UTC] PHP Notice:  Undefined variable: selling_price in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 146
+[25-Jan-2019 14:19:15 UTC] PHP Notice:  Undefined variable: quantity in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 147
+[25-Jan-2019 14:19:15 UTC] PHP Notice:  Undefined variable: selling_price in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 148
+[25-Jan-2019 14:19:15 UTC] PHP Notice:  Undefined variable: quantity in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 148
+[25-Jan-2019 14:19:33 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 30
+[25-Jan-2019 14:19:33 UTC] PHP Notice:  Undefined variable: p_id in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 137
+[25-Jan-2019 14:19:33 UTC] PHP Notice:  Undefined variable: selling_price in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 146
+[25-Jan-2019 14:19:33 UTC] PHP Notice:  Undefined variable: quantity in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 147
+[25-Jan-2019 14:19:33 UTC] PHP Notice:  Undefined variable: selling_price in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 148
+[25-Jan-2019 14:19:33 UTC] PHP Notice:  Undefined variable: quantity in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 148
+[25-Jan-2019 14:20:29 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 30
+[25-Jan-2019 14:20:29 UTC] PHP Notice:  Undefined variable: p_id in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 137
+[25-Jan-2019 14:20:29 UTC] PHP Notice:  Undefined variable: selling_price in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 146
+[25-Jan-2019 14:20:29 UTC] PHP Notice:  Undefined variable: quantity in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 147
+[25-Jan-2019 14:20:29 UTC] PHP Notice:  Undefined variable: selling_price in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 148
+[25-Jan-2019 14:20:29 UTC] PHP Notice:  Undefined variable: quantity in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 148
+[25-Jan-2019 14:20:35 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 30
+[25-Jan-2019 14:20:35 UTC] PHP Notice:  Undefined variable: p_id in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 137
+[25-Jan-2019 14:20:35 UTC] PHP Notice:  Undefined variable: selling_price in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 146
+[25-Jan-2019 14:20:35 UTC] PHP Notice:  Undefined variable: quantity in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 147
+[25-Jan-2019 14:20:35 UTC] PHP Notice:  Undefined variable: selling_price in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 148
+[25-Jan-2019 14:20:35 UTC] PHP Notice:  Undefined variable: quantity in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 148
+[25-Jan-2019 14:21:26 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 30
+[25-Jan-2019 14:21:26 UTC] PHP Notice:  Undefined variable: pid in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 137
+[25-Jan-2019 14:21:26 UTC] PHP Notice:  Undefined variable: selling_price in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 146
+[25-Jan-2019 14:21:26 UTC] PHP Notice:  Undefined variable: quantity in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 147
+[25-Jan-2019 14:21:26 UTC] PHP Notice:  Undefined variable: selling_price in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 148
+[25-Jan-2019 14:21:26 UTC] PHP Notice:  Undefined variable: quantity in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 148
+[25-Jan-2019 14:21:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 30
+[25-Jan-2019 14:21:30 UTC] PHP Notice:  Undefined variable: pid in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 137
+[25-Jan-2019 14:21:30 UTC] PHP Notice:  Undefined variable: selling_price in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 146
+[25-Jan-2019 14:21:30 UTC] PHP Notice:  Undefined variable: quantity in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 147
+[25-Jan-2019 14:21:30 UTC] PHP Notice:  Undefined variable: selling_price in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 148
+[25-Jan-2019 14:21:30 UTC] PHP Notice:  Undefined variable: quantity in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 148
+[25-Jan-2019 14:21:34 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 30
+[25-Jan-2019 14:21:34 UTC] PHP Notice:  Undefined variable: pid in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 137
+[25-Jan-2019 14:21:34 UTC] PHP Notice:  Undefined variable: selling_price in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 146
+[25-Jan-2019 14:21:34 UTC] PHP Notice:  Undefined variable: quantity in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 147
+[25-Jan-2019 14:21:34 UTC] PHP Notice:  Undefined variable: selling_price in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 148
+[25-Jan-2019 14:21:34 UTC] PHP Notice:  Undefined variable: quantity in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 148
+[25-Jan-2019 14:22:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 30
+[25-Jan-2019 14:22:43 UTC] PHP Notice:  Undefined variable: pid in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 137
+[25-Jan-2019 14:22:43 UTC] PHP Notice:  Undefined variable: selling_price in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 146
+[25-Jan-2019 14:22:43 UTC] PHP Notice:  Undefined variable: quantity in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 147
+[25-Jan-2019 14:22:43 UTC] PHP Notice:  Undefined variable: selling_price in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 148
+[25-Jan-2019 14:22:43 UTC] PHP Notice:  Undefined variable: quantity in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 148
+[25-Jan-2019 14:22:47 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 30
+[25-Jan-2019 14:22:47 UTC] PHP Notice:  Undefined variable: pid in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 137
+[25-Jan-2019 14:22:47 UTC] PHP Notice:  Undefined variable: selling_price in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 146
+[25-Jan-2019 14:22:47 UTC] PHP Notice:  Undefined variable: quantity in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 147
+[25-Jan-2019 14:22:47 UTC] PHP Notice:  Undefined variable: selling_price in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 148
+[25-Jan-2019 14:22:47 UTC] PHP Notice:  Undefined variable: quantity in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 148
+[25-Jan-2019 14:26:53 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 30
+[25-Jan-2019 14:26:53 UTC] PHP Notice:  Undefined variable: pid in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 137
+[25-Jan-2019 14:26:53 UTC] PHP Notice:  Undefined variable: selling_price in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 146
+[25-Jan-2019 14:26:53 UTC] PHP Notice:  Undefined variable: quantity in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 147
+[25-Jan-2019 14:26:53 UTC] PHP Notice:  Undefined variable: selling_price in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 148
+[25-Jan-2019 14:26:53 UTC] PHP Notice:  Undefined variable: quantity in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 148
+[25-Jan-2019 14:28:14 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 30
+[25-Jan-2019 14:28:14 UTC] PHP Notice:  Undefined variable: pid in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 139
+[25-Jan-2019 14:28:14 UTC] PHP Notice:  Undefined variable: selling_price in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 148
+[25-Jan-2019 14:28:14 UTC] PHP Notice:  Undefined variable: quantity in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 149
+[25-Jan-2019 14:28:14 UTC] PHP Notice:  Undefined variable: selling_price in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 150
+[25-Jan-2019 14:28:14 UTC] PHP Notice:  Undefined variable: quantity in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 150
+[25-Jan-2019 14:28:45 UTC] PHP Notice:  Undefined offset: 3 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 139
+[25-Jan-2019 14:28:45 UTC] PHP Notice:  Undefined offset: 3 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 148
+[25-Jan-2019 14:28:45 UTC] PHP Notice:  Undefined offset: 3 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 149
+[25-Jan-2019 14:28:45 UTC] PHP Notice:  Undefined offset: 3 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 150
+[25-Jan-2019 14:28:45 UTC] PHP Notice:  Undefined offset: 3 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 150
+[25-Jan-2019 14:29:14 UTC] PHP Notice:  Undefined offset: 3 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 139
+[25-Jan-2019 14:29:14 UTC] PHP Notice:  Undefined offset: 3 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 148
+[25-Jan-2019 14:29:14 UTC] PHP Notice:  Undefined offset: 3 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 149
+[25-Jan-2019 14:29:14 UTC] PHP Notice:  Undefined offset: 3 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 150
+[25-Jan-2019 14:29:14 UTC] PHP Notice:  Undefined offset: 3 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 150
+[25-Jan-2019 14:29:40 UTC] PHP Notice:  Undefined offset: 3 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 139
+[25-Jan-2019 14:29:40 UTC] PHP Notice:  Undefined offset: 3 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 148
+[25-Jan-2019 14:29:40 UTC] PHP Notice:  Undefined offset: 3 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 149
+[25-Jan-2019 14:29:40 UTC] PHP Notice:  Undefined offset: 3 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 150
+[25-Jan-2019 14:29:40 UTC] PHP Notice:  Undefined offset: 3 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 150
+[25-Jan-2019 14:30:15 UTC] PHP Notice:  Undefined offset: 3 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 139
+[25-Jan-2019 14:30:15 UTC] PHP Notice:  Undefined offset: 3 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 148
+[25-Jan-2019 14:30:15 UTC] PHP Notice:  Undefined offset: 3 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 149
+[25-Jan-2019 14:30:15 UTC] PHP Notice:  Undefined offset: 3 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 150
+[25-Jan-2019 14:30:15 UTC] PHP Notice:  Undefined offset: 3 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 150
+[25-Jan-2019 14:32:50 UTC] PHP Notice:  Undefined offset: 3 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 139
+[25-Jan-2019 14:32:50 UTC] PHP Notice:  Undefined offset: 3 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 148
+[25-Jan-2019 14:32:50 UTC] PHP Notice:  Undefined offset: 3 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 149
+[25-Jan-2019 14:32:50 UTC] PHP Notice:  Undefined offset: 3 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 150
+[25-Jan-2019 14:32:50 UTC] PHP Notice:  Undefined offset: 3 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 150
+[25-Jan-2019 14:35:30 UTC] PHP Notice:  Uninitialized string offset: 25 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 148
+[25-Jan-2019 14:35:30 UTC] PHP Notice:  Uninitialized string offset: 26 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 148
+[25-Jan-2019 14:35:30 UTC] PHP Notice:  Uninitialized string offset: 27 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 148
+[25-Jan-2019 14:35:30 UTC] PHP Notice:  Uninitialized string offset: 28 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 148
+[25-Jan-2019 14:35:30 UTC] PHP Notice:  Uninitialized string offset: 29 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 148
+[25-Jan-2019 14:35:30 UTC] PHP Notice:  Uninitialized string offset: 30 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 148
+[25-Jan-2019 14:35:30 UTC] PHP Notice:  Uninitialized string offset: 31 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 148
+[25-Jan-2019 14:35:30 UTC] PHP Notice:  Uninitialized string offset: 32 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 148
+[25-Jan-2019 14:35:30 UTC] PHP Notice:  Uninitialized string offset: 33 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 148
+[25-Jan-2019 14:35:30 UTC] PHP Notice:  Uninitialized string offset: 34 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 148
+[25-Jan-2019 14:35:30 UTC] PHP Notice:  Uninitialized string offset: 35 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 148
+[25-Jan-2019 14:35:30 UTC] PHP Notice:  Uninitialized string offset: 36 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 148
+[25-Jan-2019 14:35:30 UTC] PHP Notice:  Uninitialized string offset: 37 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 148
+[25-Jan-2019 14:35:30 UTC] PHP Notice:  Uninitialized string offset: 38 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 148
+[25-Jan-2019 14:35:30 UTC] PHP Notice:  Uninitialized string offset: 39 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 148
+[25-Jan-2019 14:35:30 UTC] PHP Notice:  Uninitialized string offset: 40 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 148
+[25-Jan-2019 14:35:30 UTC] PHP Notice:  Uninitialized string offset: 39 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 148
+[25-Jan-2019 14:35:30 UTC] PHP Notice:  Uninitialized string offset: 40 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 148
+[25-Jan-2019 14:35:30 UTC] PHP Notice:  Uninitialized string offset: 17 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 148
+[25-Jan-2019 14:35:30 UTC] PHP Notice:  Uninitialized string offset: 18 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 148
+[25-Jan-2019 14:35:30 UTC] PHP Notice:  Uninitialized string offset: 19 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 148
+[25-Jan-2019 14:35:30 UTC] PHP Notice:  Uninitialized string offset: 20 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 148
+[25-Jan-2019 14:35:30 UTC] PHP Notice:  Uninitialized string offset: 21 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 148
+[25-Jan-2019 14:35:30 UTC] PHP Notice:  Uninitialized string offset: 22 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 148
+[25-Jan-2019 14:35:30 UTC] PHP Notice:  Uninitialized string offset: 23 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 148
+[25-Jan-2019 14:35:30 UTC] PHP Notice:  Uninitialized string offset: 24 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 148
+[25-Jan-2019 14:35:30 UTC] PHP Notice:  Uninitialized string offset: 25 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 148
+[25-Jan-2019 14:35:30 UTC] PHP Notice:  Uninitialized string offset: 26 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 148
+[25-Jan-2019 14:35:30 UTC] PHP Notice:  Uninitialized string offset: 27 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 148
+[25-Jan-2019 14:35:30 UTC] PHP Notice:  Uninitialized string offset: 28 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 148
+[25-Jan-2019 14:35:30 UTC] PHP Notice:  Uninitialized string offset: 29 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 148
+[25-Jan-2019 14:35:30 UTC] PHP Notice:  Uninitialized string offset: 30 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 148
+[25-Jan-2019 14:35:30 UTC] PHP Notice:  Uninitialized string offset: 31 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 148
+[25-Jan-2019 14:35:30 UTC] PHP Notice:  Uninitialized string offset: 32 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 148
+[25-Jan-2019 14:35:30 UTC] PHP Notice:  Uninitialized string offset: 33 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 148
+[25-Jan-2019 14:35:30 UTC] PHP Notice:  Uninitialized string offset: 34 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 148
+[25-Jan-2019 14:35:30 UTC] PHP Notice:  Uninitialized string offset: 35 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 148
+[25-Jan-2019 14:35:30 UTC] PHP Notice:  Uninitialized string offset: 36 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 148
+[25-Jan-2019 14:35:30 UTC] PHP Notice:  Uninitialized string offset: 37 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 148
+[25-Jan-2019 14:35:30 UTC] PHP Notice:  Uninitialized string offset: 38 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 148
+[25-Jan-2019 14:35:30 UTC] PHP Notice:  Uninitialized string offset: 39 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 148
+[25-Jan-2019 14:35:30 UTC] PHP Notice:  Uninitialized string offset: 40 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 148
+[25-Jan-2019 14:35:30 UTC] PHP Notice:  Undefined offset: 3 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 139
+[25-Jan-2019 14:35:30 UTC] PHP Notice:  Undefined offset: 3 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 149
+[25-Jan-2019 14:35:30 UTC] PHP Notice:  Undefined offset: 3 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 150
+[25-Jan-2019 14:35:30 UTC] PHP Notice:  Undefined offset: 3 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 151
+[25-Jan-2019 14:35:30 UTC] PHP Notice:  Undefined offset: 3 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 151
+[25-Jan-2019 14:39:46 UTC] PHP Notice:  Undefined offset: 3 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 140
+[25-Jan-2019 14:39:46 UTC] PHP Notice:  Undefined offset: 3 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 149
+[25-Jan-2019 14:39:46 UTC] PHP Notice:  Undefined offset: 3 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 150
+[25-Jan-2019 14:39:46 UTC] PHP Notice:  Undefined offset: 3 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 151
+[25-Jan-2019 14:39:46 UTC] PHP Notice:  Undefined offset: 3 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 151
+[25-Jan-2019 14:39:52 UTC] PHP Notice:  Undefined offset: 3 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 140
+[25-Jan-2019 14:39:52 UTC] PHP Notice:  Undefined offset: 3 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 149
+[25-Jan-2019 14:39:52 UTC] PHP Notice:  Undefined offset: 3 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 150
+[25-Jan-2019 14:39:52 UTC] PHP Notice:  Undefined offset: 3 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 151
+[25-Jan-2019 14:39:52 UTC] PHP Notice:  Undefined offset: 3 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 151
+[25-Jan-2019 14:40:20 UTC] PHP Notice:  Undefined offset: 3 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 140
+[25-Jan-2019 14:40:20 UTC] PHP Notice:  Undefined offset: 3 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 149
+[25-Jan-2019 14:40:20 UTC] PHP Notice:  Undefined offset: 3 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 150
+[25-Jan-2019 14:40:20 UTC] PHP Notice:  Undefined offset: 3 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 151
+[25-Jan-2019 14:40:20 UTC] PHP Notice:  Undefined offset: 3 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 151
+[25-Jan-2019 14:40:20 UTC] PHP Notice:  Undefined offset: 3 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 159
+[25-Jan-2019 14:40:20 UTC] PHP Notice:  Undefined offset: 3 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 159
+[25-Jan-2019 14:40:40 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 159
+[25-Jan-2019 14:40:46 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 159
+[25-Jan-2019 14:45:50 UTC] PHP Notice:  Undefined offset: 3 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 140
+[25-Jan-2019 14:45:50 UTC] PHP Notice:  Undefined offset: 3 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 149
+[25-Jan-2019 14:45:50 UTC] PHP Notice:  Undefined offset: 3 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 150
+[25-Jan-2019 14:45:50 UTC] PHP Notice:  Undefined offset: 3 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 151
+[25-Jan-2019 14:45:50 UTC] PHP Notice:  Undefined offset: 3 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 151
+[25-Jan-2019 14:45:50 UTC] PHP Notice:  Undefined offset: 3 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 159
+[25-Jan-2019 14:45:50 UTC] PHP Notice:  Undefined offset: 3 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 159
+[25-Jan-2019 14:46:38 UTC] PHP Notice:  Undefined offset: 3 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 140
+[25-Jan-2019 14:46:38 UTC] PHP Notice:  Undefined offset: 3 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 149
+[25-Jan-2019 14:46:38 UTC] PHP Notice:  Undefined offset: 3 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 150
+[25-Jan-2019 14:46:38 UTC] PHP Notice:  Undefined offset: 3 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 151
+[25-Jan-2019 14:46:38 UTC] PHP Notice:  Undefined offset: 3 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 151
+[25-Jan-2019 14:46:38 UTC] PHP Notice:  Undefined offset: 3 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 159
+[25-Jan-2019 14:46:38 UTC] PHP Notice:  Undefined offset: 3 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 159
+[25-Jan-2019 14:47:02 UTC] PHP Notice:  Undefined offset: 3 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 159
+[25-Jan-2019 14:47:02 UTC] PHP Notice:  Undefined offset: 3 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 159
+[25-Jan-2019 14:48:26 UTC] PHP Notice:  Undefined offset: 3 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 160
+[25-Jan-2019 14:48:26 UTC] PHP Notice:  Undefined offset: 3 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 160
+[25-Jan-2019 14:48:52 UTC] PHP Notice:  Undefined offset: 3 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 159
+[25-Jan-2019 14:48:52 UTC] PHP Notice:  Undefined offset: 3 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 159
+[25-Jan-2019 14:50:36 UTC] PHP Notice:  Undefined offset: 3 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 159
+[25-Jan-2019 14:50:36 UTC] PHP Notice:  Undefined offset: 3 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 159
+[25-Jan-2019 14:52:45 UTC] PHP Notice:  Undefined offset: 3 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 159
+[25-Jan-2019 14:52:45 UTC] PHP Notice:  Undefined offset: 3 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 159
+[25-Jan-2019 14:53:09 UTC] PHP Notice:  Undefined offset: 3 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 159
+[25-Jan-2019 14:53:09 UTC] PHP Notice:  Undefined offset: 3 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 159
+[25-Jan-2019 14:55:24 UTC] PHP Notice:  Undefined offset: 3 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 161
+[25-Jan-2019 14:55:24 UTC] PHP Notice:  Undefined offset: 3 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 161
+[25-Jan-2019 15:01:14 UTC] PHP Notice:  Undefined offset: 15 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 161
+[25-Jan-2019 15:01:14 UTC] PHP Notice:  Undefined offset: 15 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 161
+[25-Jan-2019 15:06:40 UTC] PHP Notice:  Undefined offset: 3 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 161
+[25-Jan-2019 15:06:40 UTC] PHP Notice:  Undefined offset: 3 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 161
+[26-Jan-2019 07:46:49 UTC] PHP Notice:  Undefined variable: query in /home/umv5h8yz2e20/grocease.com/seller/admin/myadds.php on line 222
+[26-Jan-2019 07:46:49 UTC] PHP Notice:  Undefined variable: bid in /home/umv5h8yz2e20/grocease.com/seller/admin/myadds.php on line 222
+[26-Jan-2019 07:46:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/umv5h8yz2e20/grocease.com/seller/admin/myadds.php on line 222
+[26-Jan-2019 07:46:49 UTC] PHP Notice:  Undefined variable: bid in /home/umv5h8yz2e20/grocease.com/seller/admin/myadds.php on line 223
+[26-Jan-2019 07:46:49 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/seller/admin/myadds.php on line 225
+[26-Jan-2019 13:50:25 UTC] PHP Notice:  Undefined index: mname in /home/umv5h8yz2e20/grocease.com/seller/admin/add_product.php on line 204
+[26-Jan-2019 13:50:25 UTC] PHP Notice:  Undefined index: mname in /home/umv5h8yz2e20/grocease.com/seller/admin/add_product.php on line 209
+[26-Jan-2019 13:50:25 UTC] PHP Notice:  Undefined index: bname in /home/umv5h8yz2e20/grocease.com/seller/admin/add_product.php on line 216
+[26-Jan-2019 17:07:36 UTC] PHP Notice:  Undefined offset: 15 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 161
+[26-Jan-2019 17:07:36 UTC] PHP Notice:  Undefined offset: 15 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 161
+[27-Jan-2019 08:58:05 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/seller/admin/view_orders.php on line 234
+[27-Jan-2019 08:58:05 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/seller/admin/view_orders.php on line 234
+[27-Jan-2019 09:20:26 UTC] PHP Notice:  Undefined variable: query in /home/umv5h8yz2e20/grocease.com/seller/admin/myadds.php on line 222
+[27-Jan-2019 09:20:26 UTC] PHP Notice:  Undefined variable: bid in /home/umv5h8yz2e20/grocease.com/seller/admin/myadds.php on line 222
+[27-Jan-2019 09:20:26 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/umv5h8yz2e20/grocease.com/seller/admin/myadds.php on line 222
+[27-Jan-2019 09:20:26 UTC] PHP Notice:  Undefined variable: bid in /home/umv5h8yz2e20/grocease.com/seller/admin/myadds.php on line 223
+[27-Jan-2019 09:20:26 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/seller/admin/myadds.php on line 225
+[27-Jan-2019 09:31:20 UTC] PHP Notice:  Undefined variable: query in /home/umv5h8yz2e20/grocease.com/seller/admin/myadds.php on line 222
+[27-Jan-2019 09:31:20 UTC] PHP Notice:  Undefined variable: bid in /home/umv5h8yz2e20/grocease.com/seller/admin/myadds.php on line 222
+[27-Jan-2019 09:31:20 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/umv5h8yz2e20/grocease.com/seller/admin/myadds.php on line 222
+[27-Jan-2019 09:31:20 UTC] PHP Notice:  Undefined variable: bid in /home/umv5h8yz2e20/grocease.com/seller/admin/myadds.php on line 223
+[27-Jan-2019 09:31:20 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/seller/admin/myadds.php on line 225
+[27-Jan-2019 09:32:15 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/seller/admin/view_orders.php on line 234
+[27-Jan-2019 09:32:15 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/seller/admin/view_orders.php on line 234
+[27-Jan-2019 09:32:15 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/seller/admin/view_orders.php on line 234
+[27-Jan-2019 09:32:15 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/seller/admin/view_orders.php on line 234
+[27-Jan-2019 10:02:44 UTC] PHP Notice:  Undefined offset: 1 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 161
+[27-Jan-2019 10:02:44 UTC] PHP Notice:  Undefined offset: 1 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 161
+[27-Jan-2019 10:03:04 UTC] PHP Notice:  Undefined offset: 1 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 161
+[27-Jan-2019 10:03:04 UTC] PHP Notice:  Undefined offset: 1 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 161
+[27-Jan-2019 10:18:18 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/seller/admin/view_orders.php on line 234
+[27-Jan-2019 10:18:18 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/seller/admin/view_orders.php on line 234
+[27-Jan-2019 11:05:09 UTC] PHP Notice:  Undefined variable: query in /home/umv5h8yz2e20/grocease.com/seller/admin/myadds.php on line 222
+[27-Jan-2019 11:05:09 UTC] PHP Notice:  Undefined variable: bid in /home/umv5h8yz2e20/grocease.com/seller/admin/myadds.php on line 222
+[27-Jan-2019 11:05:09 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/umv5h8yz2e20/grocease.com/seller/admin/myadds.php on line 222
+[27-Jan-2019 11:05:09 UTC] PHP Notice:  Undefined variable: bid in /home/umv5h8yz2e20/grocease.com/seller/admin/myadds.php on line 223
+[27-Jan-2019 11:05:09 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/seller/admin/myadds.php on line 225
+[27-Jan-2019 12:31:58 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/seller/admin/view_orders.php on line 234
+[27-Jan-2019 12:31:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/seller/admin/view_orders.php on line 234
+[27-Jan-2019 12:34:31 UTC] PHP Notice:  Undefined offset: 1 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 161
+[27-Jan-2019 12:34:31 UTC] PHP Notice:  Undefined offset: 1 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 161
+[27-Jan-2019 13:02:30 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/seller/admin/view_orders.php on line 234
+[27-Jan-2019 13:02:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/seller/admin/view_orders.php on line 234
+[27-Jan-2019 15:25:21 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/seller/admin/view_orders.php on line 234
+[27-Jan-2019 15:25:21 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/seller/admin/view_orders.php on line 234
+[27-Jan-2019 15:58:30 UTC] PHP Notice:  Undefined variable: date in /home/umv5h8yz2e20/grocease.com/seller/admin/view_orders.php on line 203
+[27-Jan-2019 15:58:30 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/seller/admin/view_orders.php on line 234
+[27-Jan-2019 15:58:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/seller/admin/view_orders.php on line 234
+[27-Jan-2019 16:16:08 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/seller/admin/view_orders.php on line 234
+[27-Jan-2019 16:16:08 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/seller/admin/view_orders.php on line 234
+[27-Jan-2019 18:26:53 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/seller/admin/view_orders.php on line 234
+[27-Jan-2019 18:26:53 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/seller/admin/view_orders.php on line 234
+[27-Jan-2019 18:29:34 UTC] PHP Notice:  Undefined offset: 1 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 161
+[27-Jan-2019 18:29:34 UTC] PHP Notice:  Undefined offset: 1 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 161
+[27-Jan-2019 18:59:15 UTC] PHP Notice:  Undefined variable: query in /home/umv5h8yz2e20/grocease.com/seller/admin/myadds.php on line 222
+[27-Jan-2019 18:59:15 UTC] PHP Notice:  Undefined variable: bid in /home/umv5h8yz2e20/grocease.com/seller/admin/myadds.php on line 222
+[27-Jan-2019 18:59:15 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/umv5h8yz2e20/grocease.com/seller/admin/myadds.php on line 222
+[27-Jan-2019 18:59:15 UTC] PHP Notice:  Undefined variable: bid in /home/umv5h8yz2e20/grocease.com/seller/admin/myadds.php on line 223
+[27-Jan-2019 18:59:15 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/seller/admin/myadds.php on line 225
+[28-Jan-2019 04:42:39 UTC] PHP Notice:  Undefined variable: query in /home/umv5h8yz2e20/grocease.com/seller/admin/myadds.php on line 222
+[28-Jan-2019 04:42:39 UTC] PHP Notice:  Undefined variable: bid in /home/umv5h8yz2e20/grocease.com/seller/admin/myadds.php on line 222
+[28-Jan-2019 04:42:39 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/umv5h8yz2e20/grocease.com/seller/admin/myadds.php on line 222
+[28-Jan-2019 04:42:39 UTC] PHP Notice:  Undefined variable: bid in /home/umv5h8yz2e20/grocease.com/seller/admin/myadds.php on line 223
+[28-Jan-2019 04:42:39 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/seller/admin/myadds.php on line 225
+[28-Jan-2019 07:11:45 UTC] PHP Notice:  Undefined offset: 1 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 161
+[28-Jan-2019 07:11:45 UTC] PHP Notice:  Undefined offset: 1 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 161
+[28-Jan-2019 07:32:29 UTC] PHP Notice:  Undefined variable: date in /home/umv5h8yz2e20/grocease.com/seller/admin/view_orders.php on line 203
+[28-Jan-2019 07:32:29 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/seller/admin/view_orders.php on line 234
+[28-Jan-2019 07:32:29 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/seller/admin/view_orders.php on line 234
+[28-Jan-2019 08:28:59 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/seller/admin/view_orders.php on line 234
+[28-Jan-2019 08:28:59 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/seller/admin/view_orders.php on line 234
+[28-Jan-2019 10:12:51 UTC] PHP Notice:  Undefined variable: date in /home/umv5h8yz2e20/grocease.com/seller/admin/view_orders.php on line 203
+[28-Jan-2019 10:12:51 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/seller/admin/view_orders.php on line 234
+[28-Jan-2019 10:12:51 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/seller/admin/view_orders.php on line 234
+[28-Jan-2019 12:58:10 UTC] PHP Notice:  Undefined offset: 1 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 161
+[28-Jan-2019 12:58:10 UTC] PHP Notice:  Undefined offset: 1 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 161
+[28-Jan-2019 15:21:44 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/umv5h8yz2e20/grocease.com/seller/admin/view_order_details.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/umv5h8yz2e20/grocease.com/seller/admin/view_order_details.php on line 17
+[28-Jan-2019 16:09:52 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/seller/admin/view_orders.php on line 234
+[28-Jan-2019 16:09:52 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/seller/admin/view_orders.php on line 234
+[28-Jan-2019 16:28:13 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/seller/admin/view_orders.php on line 234
+[28-Jan-2019 16:28:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/seller/admin/view_orders.php on line 234
+[28-Jan-2019 17:40:02 UTC] PHP Notice:  Undefined variable: query in /home/umv5h8yz2e20/grocease.com/seller/admin/myadds.php on line 222
+[28-Jan-2019 17:40:02 UTC] PHP Notice:  Undefined variable: bid in /home/umv5h8yz2e20/grocease.com/seller/admin/myadds.php on line 222
+[28-Jan-2019 17:40:02 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/umv5h8yz2e20/grocease.com/seller/admin/myadds.php on line 222
+[28-Jan-2019 17:40:02 UTC] PHP Notice:  Undefined variable: bid in /home/umv5h8yz2e20/grocease.com/seller/admin/myadds.php on line 223
+[28-Jan-2019 17:40:02 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/seller/admin/myadds.php on line 225
+[29-Jan-2019 11:21:27 UTC] PHP Notice:  Undefined variable: date in /home/umv5h8yz2e20/grocease.com/seller/admin/view_orders.php on line 203
+[29-Jan-2019 11:21:27 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/seller/admin/view_orders.php on line 234
+[29-Jan-2019 11:21:27 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/seller/admin/view_orders.php on line 234
+[29-Jan-2019 12:41:35 UTC] PHP Notice:  Undefined variable: date in /home/umv5h8yz2e20/grocease.com/seller/admin/view_orders.php on line 203
+[29-Jan-2019 12:41:35 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/seller/admin/view_orders.php on line 234
+[29-Jan-2019 12:41:35 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/seller/admin/view_orders.php on line 234
+[30-Jan-2019 10:04:18 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/seller/admin/view_orders.php on line 234
+[30-Jan-2019 10:04:18 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/seller/admin/view_orders.php on line 234
+[30-Jan-2019 10:04:52 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/seller/admin/view_orders.php on line 234
+[30-Jan-2019 10:04:52 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/seller/admin/view_orders.php on line 234
+[30-Jan-2019 14:52:40 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/umv5h8yz2e20/grocease.com/seller/admin/view_order_details.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/umv5h8yz2e20/grocease.com/seller/admin/view_order_details.php on line 17
+[30-Jan-2019 14:53:02 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/umv5h8yz2e20/grocease.com/seller/admin/view_order_details.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/umv5h8yz2e20/grocease.com/seller/admin/view_order_details.php on line 17
+[30-Jan-2019 14:59:02 UTC] PHP Notice:  Undefined variable: user_address_fetch in /home/umv5h8yz2e20/grocease.com/seller/admin/view_order_details.php on line 13
+[30-Jan-2019 14:59:02 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/seller/admin/view_order_details.php on line 13
+[30-Jan-2019 14:59:02 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/umv5h8yz2e20/grocease.com/seller/admin/view_order_details.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/umv5h8yz2e20/grocease.com/seller/admin/view_order_details.php on line 17
+[30-Jan-2019 14:59:26 UTC] PHP Notice:  Undefined variable: user_address_fetch in /home/umv5h8yz2e20/grocease.com/seller/admin/view_order_details.php on line 13
+[30-Jan-2019 14:59:26 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/seller/admin/view_order_details.php on line 13
+[30-Jan-2019 14:59:26 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/umv5h8yz2e20/grocease.com/seller/admin/view_order_details.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/umv5h8yz2e20/grocease.com/seller/admin/view_order_details.php on line 17
+[30-Jan-2019 15:01:11 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/umv5h8yz2e20/grocease.com/seller/admin/view_order_details.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/umv5h8yz2e20/grocease.com/seller/admin/view_order_details.php on line 17
+[30-Jan-2019 17:36:00 UTC] PHP Notice:  Undefined variable: date in /home/umv5h8yz2e20/grocease.com/seller/admin/view_orders.php on line 203
+[30-Jan-2019 17:36:00 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/seller/admin/view_orders.php on line 234
+[30-Jan-2019 17:36:00 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/seller/admin/view_orders.php on line 234
+[30-Jan-2019 17:38:01 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/seller/admin/view_orders.php on line 234
+[30-Jan-2019 17:38:01 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/seller/admin/view_orders.php on line 234
+[31-Jan-2019 04:24:50 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/seller/admin/view_orders.php on line 234
+[31-Jan-2019 04:24:50 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/seller/admin/view_orders.php on line 234
+[31-Jan-2019 11:44:24 UTC] PHP Notice:  Undefined offset: 1 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 161
+[31-Jan-2019 11:44:24 UTC] PHP Notice:  Undefined offset: 1 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 161
+[31-Jan-2019 12:54:21 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/seller/admin/view_orders.php on line 234
+[31-Jan-2019 12:54:21 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/seller/admin/view_orders.php on line 234
+[31-Jan-2019 13:39:50 UTC] PHP Notice:  Undefined index: number in /home/umv5h8yz2e20/grocease.com/seller/admin/view_order_details.php on line 11
+[31-Jan-2019 14:13:28 UTC] PHP Notice:  Undefined index: number in /home/umv5h8yz2e20/grocease.com/seller/admin/view_order_details.php on line 11
+[31-Jan-2019 14:24:26 UTC] PHP Notice:  Undefined index: number in /home/umv5h8yz2e20/grocease.com/seller/admin/view_order_details.php on line 11
+[31-Jan-2019 14:25:48 UTC] PHP Notice:  Undefined index: number in /home/umv5h8yz2e20/grocease.com/seller/admin/view_order_details.php on line 11
+[31-Jan-2019 14:38:10 UTC] PHP Notice:  Undefined index: number in /home/umv5h8yz2e20/grocease.com/seller/admin/view_order_details.php on line 11
+[31-Jan-2019 14:39:18 UTC] PHP Notice:  Undefined index: number in /home/umv5h8yz2e20/grocease.com/seller/admin/view_order_details.php on line 11
+[31-Jan-2019 14:39:37 UTC] PHP Notice:  Undefined index: number in /home/umv5h8yz2e20/grocease.com/seller/admin/view_order_details.php on line 11
+[31-Jan-2019 14:42:28 UTC] PHP Notice:  Undefined index: number in /home/umv5h8yz2e20/grocease.com/seller/admin/view_order_details.php on line 11
+[31-Jan-2019 14:42:28 UTC] PHP Notice:  Undefined variable: gtotal in /home/umv5h8yz2e20/grocease.com/seller/admin/view_order_details.php on line 78
+[31-Jan-2019 14:43:12 UTC] PHP Notice:  Undefined index: number in /home/umv5h8yz2e20/grocease.com/seller/admin/view_order_details.php on line 11
+[31-Jan-2019 14:43:12 UTC] PHP Notice:  Undefined variable: gtotal in /home/umv5h8yz2e20/grocease.com/seller/admin/view_order_details.php on line 78
+[31-Jan-2019 14:51:58 UTC] PHP Notice:  Undefined index: number in /home/umv5h8yz2e20/grocease.com/seller/admin/view_order_details.php on line 11
+[31-Jan-2019 14:51:58 UTC] PHP Notice:  Undefined variable: gtotal in /home/umv5h8yz2e20/grocease.com/seller/admin/view_order_details.php on line 83
+[31-Jan-2019 14:54:37 UTC] PHP Notice:  Undefined variable: user_mobile in /home/umv5h8yz2e20/grocease.com/seller/admin/view_order_details.php on line 17
+[31-Jan-2019 14:54:39 UTC] PHP Notice:  Undefined variable: user_mobile in /home/umv5h8yz2e20/grocease.com/seller/admin/view_order_details.php on line 17
+[31-Jan-2019 14:54:39 UTC] PHP Notice:  Undefined variable: user_mobile in /home/umv5h8yz2e20/grocease.com/seller/admin/view_order_details.php on line 17
+[31-Jan-2019 14:54:40 UTC] PHP Notice:  Undefined variable: user_mobile in /home/umv5h8yz2e20/grocease.com/seller/admin/view_order_details.php on line 17
+[31-Jan-2019 15:02:55 UTC] PHP Notice:  Undefined variable: user_mobile in /home/umv5h8yz2e20/grocease.com/seller/admin/view_order_details.php on line 17
+[31-Jan-2019 15:02:57 UTC] PHP Notice:  Undefined variable: user_mobile in /home/umv5h8yz2e20/grocease.com/seller/admin/view_order_details.php on line 17
+[31-Jan-2019 15:03:00 UTC] PHP Notice:  Undefined variable: user_mobile in /home/umv5h8yz2e20/grocease.com/seller/admin/view_order_details.php on line 17
+[31-Jan-2019 15:03:02 UTC] PHP Notice:  Undefined variable: user_mobile in /home/umv5h8yz2e20/grocease.com/seller/admin/view_order_details.php on line 17
+[31-Jan-2019 15:03:02 UTC] PHP Notice:  Undefined variable: user_mobile in /home/umv5h8yz2e20/grocease.com/seller/admin/view_order_details.php on line 82
+[31-Jan-2019 15:03:02 UTC] PHP Notice:  Undefined variable: gtotal in /home/umv5h8yz2e20/grocease.com/seller/admin/view_order_details.php on line 83
+[31-Jan-2019 15:03:36 UTC] PHP Notice:  Undefined variable: user_mobile in /home/umv5h8yz2e20/grocease.com/seller/admin/view_order_details.php on line 17
+[31-Jan-2019 15:03:48 UTC] PHP Notice:  Undefined variable: user_mobile in /home/umv5h8yz2e20/grocease.com/seller/admin/view_order_details.php on line 17
+[31-Jan-2019 15:03:48 UTC] PHP Notice:  Undefined variable: user_mobile in /home/umv5h8yz2e20/grocease.com/seller/admin/view_order_details.php on line 39
+[31-Jan-2019 15:04:25 UTC] PHP Notice:  Undefined variable: user_mobile in /home/umv5h8yz2e20/grocease.com/seller/admin/view_order_details.php on line 17
+[31-Jan-2019 15:06:31 UTC] PHP Notice:  Undefined variable: gtotal in /home/umv5h8yz2e20/grocease.com/seller/admin/view_order_details.php on line 83
+[31-Jan-2019 15:07:01 UTC] PHP Notice:  Undefined variable: gtotal in /home/umv5h8yz2e20/grocease.com/seller/admin/view_order_details.php on line 83
+[31-Jan-2019 15:07:41 UTC] PHP Notice:  Undefined variable: gtotal in /home/umv5h8yz2e20/grocease.com/seller/admin/view_order_details.php on line 83
+[31-Jan-2019 15:08:43 UTC] PHP Notice:  Undefined variable: gtotal in /home/umv5h8yz2e20/grocease.com/seller/admin/view_order_details.php on line 83
+[31-Jan-2019 15:11:38 UTC] PHP Notice:  Undefined variable: gtotal in /home/umv5h8yz2e20/grocease.com/seller/admin/view_order_details.php on line 83
+[31-Jan-2019 15:13:06 UTC] PHP Notice:  Undefined variable: gtotal in /home/umv5h8yz2e20/grocease.com/seller/admin/view_order_details.php on line 83
+[31-Jan-2019 15:22:02 UTC] PHP Notice:  Undefined variable: gtotal in /home/umv5h8yz2e20/grocease.com/seller/admin/view_order_details.php on line 83
+[31-Jan-2019 15:28:12 UTC] PHP Notice:  Undefined variable: gtotal in /home/umv5h8yz2e20/grocease.com/seller/admin/view_order_details.php on line 83
+[31-Jan-2019 15:30:11 UTC] PHP Notice:  Undefined variable: gtotal in /home/umv5h8yz2e20/grocease.com/seller/admin/view_order_details.php on line 83
+[31-Jan-2019 17:04:15 UTC] PHP Notice:  Undefined variable: query in /home/umv5h8yz2e20/grocease.com/seller/admin/myadds.php on line 222
+[31-Jan-2019 17:04:15 UTC] PHP Notice:  Undefined variable: bid in /home/umv5h8yz2e20/grocease.com/seller/admin/myadds.php on line 222
+[31-Jan-2019 17:04:15 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/umv5h8yz2e20/grocease.com/seller/admin/myadds.php on line 222
+[31-Jan-2019 17:04:15 UTC] PHP Notice:  Undefined variable: bid in /home/umv5h8yz2e20/grocease.com/seller/admin/myadds.php on line 223
+[31-Jan-2019 17:04:15 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/seller/admin/myadds.php on line 225
+[01-Feb-2019 09:13:08 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/seller/admin/view_orders.php on line 234
+[01-Feb-2019 09:13:08 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/seller/admin/view_orders.php on line 234
+[01-Feb-2019 10:36:43 UTC] PHP Notice:  Undefined variable: gtotal in /home/umv5h8yz2e20/grocease.com/seller/admin/view_order_details.php on line 83
+[01-Feb-2019 10:36:52 UTC] PHP Notice:  Undefined variable: gtotal in /home/umv5h8yz2e20/grocease.com/seller/admin/view_order_details.php on line 83
+[01-Feb-2019 10:37:09 UTC] PHP Notice:  Undefined variable: gtotal in /home/umv5h8yz2e20/grocease.com/seller/admin/view_order_details.php on line 83
+[01-Feb-2019 10:38:13 UTC] PHP Notice:  Undefined offset: 2 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 161
+[01-Feb-2019 10:38:13 UTC] PHP Notice:  Undefined offset: 2 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 161
+[01-Feb-2019 11:19:51 UTC] PHP Notice:  Undefined variable: gtotal in /home/umv5h8yz2e20/grocease.com/seller/admin/view_order_details.php on line 83
+[01-Feb-2019 11:23:21 UTC] PHP Notice:  Undefined variable: gtotal in /home/umv5h8yz2e20/grocease.com/seller/admin/view_order_details.php on line 83
+[01-Feb-2019 12:45:39 UTC] PHP Notice:  Undefined variable: gtotal in /home/umv5h8yz2e20/grocease.com/seller/admin/view_order_details.php on line 83
+[01-Feb-2019 14:21:38 UTC] PHP Notice:  Undefined variable: gtotal in /home/umv5h8yz2e20/grocease.com/seller/admin/view_order_details.php on line 91
+[01-Feb-2019 18:07:31 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/seller/admin/view_orders.php on line 234
+[01-Feb-2019 18:07:31 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/seller/admin/view_orders.php on line 234
+[01-Feb-2019 18:07:42 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/seller/admin/view_orders.php on line 234
+[01-Feb-2019 18:07:42 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/seller/admin/view_orders.php on line 234
+[01-Feb-2019 22:33:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/umv5h8yz2e20/grocease.com/seller/admin/register-business.php on line 65
+[02-Feb-2019 10:28:06 UTC] PHP Notice:  Undefined offset: 21 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 161
+[02-Feb-2019 10:28:06 UTC] PHP Notice:  Undefined offset: 21 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 161
+[02-Feb-2019 10:31:31 UTC] PHP Notice:  Undefined offset: 21 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 161
+[02-Feb-2019 10:31:31 UTC] PHP Notice:  Undefined offset: 21 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 161
+[03-Feb-2019 14:15:36 UTC] PHP Notice:  Undefined offset: 1 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 161
+[03-Feb-2019 14:15:36 UTC] PHP Notice:  Undefined offset: 1 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 161
+[03-Feb-2019 18:19:43 UTC] PHP Notice:  Undefined offset: 1 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 161
+[03-Feb-2019 18:19:43 UTC] PHP Notice:  Undefined offset: 1 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 161
+[03-Feb-2019 18:34:56 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/seller/admin/view_orders.php on line 234
+[03-Feb-2019 18:34:56 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/seller/admin/view_orders.php on line 234
+[04-Feb-2019 02:54:37 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/seller/admin/view_orders.php on line 234
+[04-Feb-2019 02:54:37 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/seller/admin/view_orders.php on line 234
+[05-Feb-2019 13:52:12 UTC] PHP Notice:  Undefined variable: date in /home/umv5h8yz2e20/grocease.com/seller/admin/view_orders.php on line 203
+[05-Feb-2019 13:52:12 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/seller/admin/view_orders.php on line 234
+[05-Feb-2019 13:52:12 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/seller/admin/view_orders.php on line 234
+[05-Feb-2019 13:59:17 UTC] PHP Notice:  Undefined variable: date in /home/umv5h8yz2e20/grocease.com/seller/admin/view_orders.php on line 203
+[05-Feb-2019 13:59:17 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/seller/admin/view_orders.php on line 234
+[05-Feb-2019 13:59:17 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/seller/admin/view_orders.php on line 234
+[05-Feb-2019 15:44:12 UTC] PHP Notice:  Undefined variable: date in /home/umv5h8yz2e20/grocease.com/seller/admin/view_orders.php on line 203
+[05-Feb-2019 15:44:12 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/seller/admin/view_orders.php on line 234
+[05-Feb-2019 15:44:12 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/seller/admin/view_orders.php on line 234
+[05-Feb-2019 17:08:50 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/seller/admin/view_orders.php on line 234
+[05-Feb-2019 17:08:50 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/seller/admin/view_orders.php on line 234
+[06-Feb-2019 17:51:28 UTC] PHP Notice:  Undefined variable: oid in /home/umv5h8yz2e20/grocease.com/seller/admin/view_order_details.php on line 311
+[06-Feb-2019 17:51:28 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/seller/admin/view_order_details.php on line 328
+[06-Feb-2019 17:51:28 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/seller/admin/view_order_details.php on line 328
+[06-Feb-2019 17:51:28 UTC] PHP Notice:  Undefined variable: status_confirmed in /home/umv5h8yz2e20/grocease.com/seller/admin/view_order_details.php on line 376
+[06-Feb-2019 17:51:28 UTC] PHP Notice:  Undefined variable: oid in /home/umv5h8yz2e20/grocease.com/seller/admin/view_order_details.php on line 380
+[06-Feb-2019 17:51:28 UTC] PHP Notice:  Undefined variable: status_shipped in /home/umv5h8yz2e20/grocease.com/seller/admin/view_order_details.php on line 393
+[06-Feb-2019 17:51:28 UTC] PHP Notice:  Undefined variable: oid in /home/umv5h8yz2e20/grocease.com/seller/admin/view_order_details.php on line 397
+[06-Feb-2019 17:51:28 UTC] PHP Notice:  Undefined variable: oid in /home/umv5h8yz2e20/grocease.com/seller/admin/view_order_details.php on line 406
+[06-Feb-2019 17:51:28 UTC] PHP Notice:  Undefined variable: status_delivered in /home/umv5h8yz2e20/grocease.com/seller/admin/view_order_details.php on line 413
+[06-Feb-2019 17:51:28 UTC] PHP Notice:  Undefined variable: oid in /home/umv5h8yz2e20/grocease.com/seller/admin/view_order_details.php on line 416
+[06-Feb-2019 17:51:29 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/seller/admin/view_orders.php on line 234
+[06-Feb-2019 17:51:29 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/seller/admin/view_orders.php on line 234
+[07-Feb-2019 14:47:23 UTC] PHP Notice:  Undefined index: mname in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 229
+[07-Feb-2019 14:47:23 UTC] PHP Notice:  Undefined index: mname in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 234
+[07-Feb-2019 14:47:23 UTC] PHP Notice:  Undefined variable: bid_result2 in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 244
+[07-Feb-2019 14:47:23 UTC] PHP Notice:  Undefined variable: bid_result2 in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 245
+[07-Feb-2019 14:47:23 UTC] PHP Notice:  Undefined variable: bid_result2 in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 246
+[07-Feb-2019 14:47:23 UTC] PHP Notice:  Undefined variable: bid_result2 in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 247
+[07-Feb-2019 14:47:23 UTC] PHP Notice:  Undefined variable: bid_result2 in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 248
+[07-Feb-2019 14:47:23 UTC] PHP Notice:  Undefined variable: query in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 249
+[07-Feb-2019 14:47:23 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 249
+[07-Feb-2019 14:47:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 250
+[07-Feb-2019 14:47:23 UTC] PHP Notice:  Undefined variable: bid_result2 in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 252
+[07-Feb-2019 14:47:23 UTC] PHP Notice:  Undefined variable: query in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 253
+[07-Feb-2019 14:47:23 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 253
+[07-Feb-2019 14:47:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 254
+[07-Feb-2019 14:47:23 UTC] PHP Notice:  Undefined variable: bid_result2 in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 256
+[07-Feb-2019 14:47:23 UTC] PHP Notice:  Undefined variable: query in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 257
+[07-Feb-2019 14:47:23 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 257
+[07-Feb-2019 14:47:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 258
+[07-Feb-2019 14:47:23 UTC] PHP Notice:  Undefined variable: bid_result2 in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 260
+[07-Feb-2019 14:47:23 UTC] PHP Notice:  Undefined variable: bid_result2 in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 261
+[07-Feb-2019 14:47:23 UTC] PHP Notice:  Undefined variable: bid_result2 in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 262
+[07-Feb-2019 14:47:23 UTC] PHP Notice:  Undefined variable: bid_result2 in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 263
+[07-Feb-2019 19:01:45 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/seller/admin/view_orders.php on line 234
+[07-Feb-2019 19:01:45 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/seller/admin/view_orders.php on line 234
+[09-Feb-2019 07:12:35 UTC] PHP Notice:  Undefined variable: date in /home/umv5h8yz2e20/grocease.com/seller/admin/view_orders.php on line 203
+[09-Feb-2019 07:12:35 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/seller/admin/view_orders.php on line 234
+[09-Feb-2019 07:12:35 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/seller/admin/view_orders.php on line 234
+[05-Apr-2019 07:18:13 UTC] PHP Notice:  Undefined variable: oid in /home/umv5h8yz2e20/grocease.com/seller/admin/view_order_details.php on line 311
+[05-Apr-2019 07:18:13 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/seller/admin/view_order_details.php on line 328
+[05-Apr-2019 07:18:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/seller/admin/view_order_details.php on line 328
+[05-Apr-2019 07:18:13 UTC] PHP Notice:  Undefined variable: status_confirmed in /home/umv5h8yz2e20/grocease.com/seller/admin/view_order_details.php on line 376
+[05-Apr-2019 07:18:13 UTC] PHP Notice:  Undefined variable: oid in /home/umv5h8yz2e20/grocease.com/seller/admin/view_order_details.php on line 380
+[05-Apr-2019 07:18:13 UTC] PHP Notice:  Undefined variable: status_shipped in /home/umv5h8yz2e20/grocease.com/seller/admin/view_order_details.php on line 393
+[05-Apr-2019 07:18:13 UTC] PHP Notice:  Undefined variable: oid in /home/umv5h8yz2e20/grocease.com/seller/admin/view_order_details.php on line 397
+[05-Apr-2019 07:18:13 UTC] PHP Notice:  Undefined variable: oid in /home/umv5h8yz2e20/grocease.com/seller/admin/view_order_details.php on line 406
+[05-Apr-2019 07:18:13 UTC] PHP Notice:  Undefined variable: status_delivered in /home/umv5h8yz2e20/grocease.com/seller/admin/view_order_details.php on line 413
+[05-Apr-2019 07:18:13 UTC] PHP Notice:  Undefined variable: oid in /home/umv5h8yz2e20/grocease.com/seller/admin/view_order_details.php on line 416
+[05-Apr-2019 09:48:23 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/seller/admin/view_orders.php on line 234
+[05-Apr-2019 09:48:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/seller/admin/view_orders.php on line 234
+[05-Apr-2019 13:44:52 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/seller/admin/view_orders.php on line 234
+[05-Apr-2019 13:44:52 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/seller/admin/view_orders.php on line 234
+[05-Apr-2019 13:46:35 UTC] PHP Notice:  Undefined offset: 2 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 161
+[05-Apr-2019 13:46:35 UTC] PHP Notice:  Undefined offset: 2 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 161
+[05-Apr-2019 15:22:23 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/seller/admin/view_orders.php on line 234
+[05-Apr-2019 15:22:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/seller/admin/view_orders.php on line 234
+[19-Apr-2019 09:28:02 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/seller/admin/view_orders.php on line 234
+[19-Apr-2019 09:28:02 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/seller/admin/view_orders.php on line 234
+[20-Apr-2019 11:40:05 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/seller/admin/view_orders.php on line 234
+[20-Apr-2019 11:40:05 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/seller/admin/view_orders.php on line 234
+[24-Apr-2019 13:28:53 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/seller/admin/view_orders.php on line 234
+[24-Apr-2019 13:28:53 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/seller/admin/view_orders.php on line 234
+[30-Apr-2019 04:46:30 UTC] PHP Notice:  Undefined index: mname in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 229
+[30-Apr-2019 04:46:30 UTC] PHP Notice:  Undefined index: mname in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 234
+[30-Apr-2019 04:46:30 UTC] PHP Notice:  Undefined variable: bid_result2 in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 244
+[30-Apr-2019 04:46:30 UTC] PHP Notice:  Undefined variable: bid_result2 in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 245
+[30-Apr-2019 04:46:30 UTC] PHP Notice:  Undefined variable: bid_result2 in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 246
+[30-Apr-2019 04:46:30 UTC] PHP Notice:  Undefined variable: bid_result2 in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 247
+[30-Apr-2019 04:46:30 UTC] PHP Notice:  Undefined variable: bid_result2 in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 248
+[30-Apr-2019 04:46:30 UTC] PHP Notice:  Undefined variable: query in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 249
+[30-Apr-2019 04:46:30 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 249
+[30-Apr-2019 04:46:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 250
+[30-Apr-2019 04:46:30 UTC] PHP Notice:  Undefined variable: bid_result2 in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 252
+[30-Apr-2019 04:46:30 UTC] PHP Notice:  Undefined variable: query in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 253
+[30-Apr-2019 04:46:30 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 253
+[30-Apr-2019 04:46:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 254
+[30-Apr-2019 04:46:30 UTC] PHP Notice:  Undefined variable: bid_result2 in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 256
+[30-Apr-2019 04:46:30 UTC] PHP Notice:  Undefined variable: query in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 257
+[30-Apr-2019 04:46:30 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 257
+[30-Apr-2019 04:46:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 258
+[30-Apr-2019 04:46:30 UTC] PHP Notice:  Undefined variable: bid_result2 in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 260
+[30-Apr-2019 04:46:30 UTC] PHP Notice:  Undefined variable: bid_result2 in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 261
+[30-Apr-2019 04:46:30 UTC] PHP Notice:  Undefined variable: bid_result2 in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 262
+[30-Apr-2019 04:46:30 UTC] PHP Notice:  Undefined variable: bid_result2 in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 263
+[30-Apr-2019 05:46:09 UTC] PHP Notice:  Undefined variable: query in /home/umv5h8yz2e20/grocease.com/seller/admin/myadds.php on line 222
+[30-Apr-2019 05:46:09 UTC] PHP Notice:  Undefined variable: bid in /home/umv5h8yz2e20/grocease.com/seller/admin/myadds.php on line 222
+[30-Apr-2019 05:46:09 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/umv5h8yz2e20/grocease.com/seller/admin/myadds.php on line 222
+[30-Apr-2019 05:46:09 UTC] PHP Notice:  Undefined variable: bid in /home/umv5h8yz2e20/grocease.com/seller/admin/myadds.php on line 223
+[30-Apr-2019 05:46:09 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/seller/admin/myadds.php on line 225
+[30-Apr-2019 05:46:09 UTC] PHP Notice:  Undefined variable: query in /home/umv5h8yz2e20/grocease.com/seller/admin/myadds.php on line 284
+[30-Apr-2019 05:46:09 UTC] PHP Notice:  Undefined variable: bid in /home/umv5h8yz2e20/grocease.com/seller/admin/myadds.php on line 284
+[30-Apr-2019 05:46:09 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/umv5h8yz2e20/grocease.com/seller/admin/myadds.php on line 284
+[30-Apr-2019 05:46:09 UTC] PHP Notice:  Undefined variable: bid in /home/umv5h8yz2e20/grocease.com/seller/admin/myadds.php on line 285
+[30-Apr-2019 05:46:09 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/seller/admin/myadds.php on line 287
+[25-May-2019 10:35:57 UTC] PHP Notice:  Undefined variable: order_check in /home/umv5h8yz2e20/grocease.com/seller/admin/view_orders.php on line 234
+[25-May-2019 10:35:57 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/seller/admin/view_orders.php on line 234
+[27-Nov-2019 06:06:50 UTC] PHP Notice:  Undefined variable: query in /home/umv5h8yz2e20/grocease.com/seller/admin/myadds.php on line 222
+[27-Nov-2019 06:06:50 UTC] PHP Notice:  Undefined variable: bid in /home/umv5h8yz2e20/grocease.com/seller/admin/myadds.php on line 222
+[27-Nov-2019 06:06:50 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/umv5h8yz2e20/grocease.com/seller/admin/myadds.php on line 222
+[27-Nov-2019 06:06:50 UTC] PHP Notice:  Undefined variable: bid in /home/umv5h8yz2e20/grocease.com/seller/admin/myadds.php on line 223
+[27-Nov-2019 06:06:51 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/seller/admin/myadds.php on line 225
+[27-Nov-2019 06:06:51 UTC] PHP Notice:  Undefined variable: query in /home/umv5h8yz2e20/grocease.com/seller/admin/myadds.php on line 284
+[27-Nov-2019 06:06:51 UTC] PHP Notice:  Undefined variable: bid in /home/umv5h8yz2e20/grocease.com/seller/admin/myadds.php on line 284
+[27-Nov-2019 06:06:51 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/umv5h8yz2e20/grocease.com/seller/admin/myadds.php on line 284
+[27-Nov-2019 06:06:51 UTC] PHP Notice:  Undefined variable: bid in /home/umv5h8yz2e20/grocease.com/seller/admin/myadds.php on line 285
+[27-Nov-2019 06:06:51 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/seller/admin/myadds.php on line 287
+[27-Nov-2019 07:12:26 UTC] PHP Notice:  Undefined offset: 1 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 161
+[27-Nov-2019 07:12:26 UTC] PHP Notice:  Undefined offset: 1 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 161
+[27-Nov-2019 09:12:05 UTC] PHP Notice:  Undefined offset: 1 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 161
+[27-Nov-2019 09:12:05 UTC] PHP Notice:  Undefined offset: 1 in /home/umv5h8yz2e20/grocease.com/seller/admin/billing.php on line 161
+[30-Nov-2019 06:16:16 UTC] PHP Notice:  Undefined index: mname in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 229
+[30-Nov-2019 06:16:16 UTC] PHP Notice:  Undefined index: mname in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 234
+[30-Nov-2019 06:16:16 UTC] PHP Notice:  Undefined variable: bid_result2 in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 244
+[30-Nov-2019 06:16:16 UTC] PHP Notice:  Undefined variable: bid_result2 in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 245
+[30-Nov-2019 06:16:16 UTC] PHP Notice:  Undefined variable: bid_result2 in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 246
+[30-Nov-2019 06:16:16 UTC] PHP Notice:  Undefined variable: bid_result2 in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 247
+[30-Nov-2019 06:16:16 UTC] PHP Notice:  Undefined variable: bid_result2 in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 248
+[30-Nov-2019 06:16:16 UTC] PHP Notice:  Undefined variable: query in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 249
+[30-Nov-2019 06:16:16 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 249
+[30-Nov-2019 06:16:16 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 250
+[30-Nov-2019 06:16:16 UTC] PHP Notice:  Undefined variable: bid_result2 in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 252
+[30-Nov-2019 06:16:16 UTC] PHP Notice:  Undefined variable: query in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 253
+[30-Nov-2019 06:16:16 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 253
+[30-Nov-2019 06:16:17 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 254
+[30-Nov-2019 06:16:17 UTC] PHP Notice:  Undefined variable: bid_result2 in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 256
+[30-Nov-2019 06:16:17 UTC] PHP Notice:  Undefined variable: query in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 257
+[30-Nov-2019 06:16:17 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 257
+[30-Nov-2019 06:16:17 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 258
+[30-Nov-2019 06:16:17 UTC] PHP Notice:  Undefined variable: bid_result2 in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 260
+[30-Nov-2019 06:16:17 UTC] PHP Notice:  Undefined variable: bid_result2 in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 261
+[30-Nov-2019 06:16:17 UTC] PHP Notice:  Undefined variable: bid_result2 in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 262
+[30-Nov-2019 06:16:17 UTC] PHP Notice:  Undefined variable: bid_result2 in /home/umv5h8yz2e20/grocease.com/seller/admin/index.php on line 263
