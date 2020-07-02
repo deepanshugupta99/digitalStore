@@ -1,1 +1,3 @@
 this is the seller module here we provide the all functionality of seller related operations
+******Important notice ******
+here i have created a seperate file for data base connection which is same as in main folder. All the php pages in seller module use this connection file rather than main folder connection file
