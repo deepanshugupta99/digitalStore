@@ -1,0 +1,7 @@
+[13-Jan-2019 17:53:49 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/umv5h8yz2e20/grocease.com/seller/conn.php on line 11
+[13-Jan-2019 17:53:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/umv5h8yz2e20/grocease.com/seller/seller/register.php on line 7
+[13-Jan-2019 17:53:49 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/seller/seller/register.php on line 8
+[13-Jan-2019 17:54:05 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/umv5h8yz2e20/grocease.com/seller/conn.php on line 11
+[13-Jan-2019 17:54:05 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/umv5h8yz2e20/grocease.com/seller/seller/register.php on line 7
+[13-Jan-2019 17:54:05 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/umv5h8yz2e20/grocease.com/seller/seller/register.php on line 8
+[24-Oct-2019 18:17:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/umv5h8yz2e20/grocease.com/seller/seller/register.php on line 8
